@@ -1,0 +1,1001 @@
+Date,Fruit,Freshness_Score,Spoilage_Status,Units_Sold,Price_per_Unit,Store_ID,City,Distributor,Delivery_Delay_Days,Revenue,Spoiled_Flag
+2025-03-18,Pineapple,0.44,Not Fresh,16,1.35,ST004,Bangalore,FruityFast,3,21.6,1
+2025-03-13,Apple,0.43,Not Fresh,36,4.38,ST004,Bangalore,DistriFresh,4,157.68,1
+2025-01-06,Pineapple,0.8,Fresh,86,4.16,ST004,Mumbai,QuickHarvest,5,357.76,0
+2025-03-21,Pineapple,1.0,Fresh,106,2.54,ST004,Delhi,FruityFast,2,269.24,0
+2025-01-07,Pineapple,0.74,Fresh,84,2.8,ST002,Delhi,QuickHarvest,2,235.2,0
+2025-01-26,Apple,0.98,Fresh,118,3.52,ST001,Bangalore,FruityFast,1,415.36,0
+2025-03-01,Orange,0.33,Not Fresh,76,4.34,ST002,Hyderabad,FruityFast,3,329.84,1
+2025-01-26,Pineapple,0.45,Not Fresh,94,1.46,ST002,Delhi,AgroSupply,1,137.24,1
+2025-01-23,Banana,0.45,Not Fresh,54,2.83,ST002,Delhi,FruityFast,4,152.82,1
+2025-01-18,Mango,0.54,Not Fresh,60,2.91,ST002,Mumbai,FruityFast,2,174.60000000000002,1
+2025-01-31,Orange,0.79,Fresh,120,3.69,ST003,Hyderabad,DistriFresh,4,442.8,0
+2025-01-17,Mango,0.43,Not Fresh,93,1.39,ST004,Bangalore,QuickHarvest,5,129.26999999999998,1
+2025-03-24,Apple,0.81,Fresh,199,2.36,ST003,Delhi,DistriFresh,5,469.64,0
+2025-03-05,Banana,0.39,Not Fresh,38,2.52,ST002,Delhi,AgroSupply,1,95.76,1
+2025-02-08,Orange,0.64,Fresh,115,3.74,ST004,Delhi,QuickHarvest,0,430.1,0
+2025-03-09,Mango,0.57,Not Fresh,49,3.84,ST004,Hyderabad,FruityFast,4,188.16,1
+2025-01-26,Pineapple,0.71,Fresh,54,3.21,ST004,Bangalore,QuickHarvest,0,173.34,0
+2025-01-10,Mango,0.87,Fresh,154,1.91,ST001,Mumbai,QuickHarvest,5,294.14,0
+2025-01-07,Apple,0.92,Fresh,94,2.02,ST003,Mumbai,AgroSupply,4,189.88,0
+2025-03-17,Banana,0.37,Not Fresh,31,3.02,ST001,Hyderabad,AgroSupply,4,93.62,1
+2025-02-28,Orange,0.48,Not Fresh,47,3.53,ST001,Bangalore,DistriFresh,2,165.91,1
+2025-02-26,Banana,0.42,Not Fresh,14,2.3,ST002,Bangalore,AgroSupply,5,32.199999999999996,1
+2025-01-19,Mango,0.91,Fresh,111,1.91,ST001,Delhi,FruityFast,1,212.01,0
+2025-02-06,Pineapple,0.72,Fresh,95,2.22,ST004,Mumbai,DistriFresh,0,210.9,0
+2025-02-15,Orange,0.85,Fresh,139,2.64,ST004,Mumbai,FruityFast,2,366.96000000000004,0
+2025-01-15,Orange,0.99,Fresh,59,3.06,ST002,Hyderabad,DistriFresh,1,180.54,0
+2025-02-15,Orange,0.72,Fresh,139,1.93,ST003,Bangalore,AgroSupply,2,268.27,0
+2025-03-17,Pineapple,0.47,Not Fresh,5,3.74,ST002,Bangalore,DistriFresh,3,18.700000000000003,1
+2025-02-28,Orange,0.81,Fresh,83,2.64,ST003,Delhi,QuickHarvest,0,219.12,0
+2025-03-25,Apple,0.61,Fresh,129,4.3,ST003,Bangalore,AgroSupply,3,554.6999999999999,0
+2025-01-08,Pineapple,0.69,Fresh,158,2.71,ST001,Bangalore,FruityFast,0,428.18,0
+2025-02-06,Mango,0.49,Not Fresh,62,1.22,ST001,Hyderabad,DistriFresh,0,75.64,1
+2025-03-30,Orange,0.52,Not Fresh,27,3.06,ST004,Delhi,QuickHarvest,5,82.62,1
+2025-01-05,Banana,0.56,Not Fresh,93,3.97,ST001,Hyderabad,FruityFast,0,369.21000000000004,1
+2025-02-15,Apple,0.63,Fresh,196,2.08,ST001,Bangalore,AgroSupply,5,407.68,0
+2025-02-10,Apple,0.31,Not Fresh,57,4.06,ST002,Bangalore,FruityFast,1,231.42,1
+2025-02-28,Mango,0.95,Fresh,91,1.14,ST001,Hyderabad,QuickHarvest,4,103.74,0
+2025-01-12,Apple,0.79,Fresh,193,4.53,ST003,Delhi,FruityFast,1,874.2900000000001,0
+2025-01-15,Apple,0.72,Fresh,42,3.77,ST004,Delhi,FruityFast,0,158.34,0
+2025-01-12,Mango,0.7,Fresh,163,1.57,ST001,Delhi,FruityFast,5,255.91,0
+2025-02-28,Banana,0.38,Not Fresh,75,3.19,ST001,Bangalore,QuickHarvest,5,239.25,1
+2025-03-26,Banana,0.77,Fresh,136,3.41,ST001,Delhi,FruityFast,0,463.76,0
+2025-01-03,Mango,0.86,Fresh,177,3.49,ST001,Delhi,AgroSupply,2,617.73,0
+2025-02-19,Mango,0.36,Not Fresh,5,1.79,ST004,Mumbai,DistriFresh,5,8.95,1
+2025-02-01,Orange,0.46,Not Fresh,52,4.85,ST001,Hyderabad,AgroSupply,0,252.2,1
+2025-01-27,Apple,0.87,Fresh,140,4.49,ST003,Mumbai,QuickHarvest,2,628.6,0
+2025-03-01,Orange,0.32,Not Fresh,55,1.1,ST004,Mumbai,FruityFast,4,60.50000000000001,1
+2025-02-13,Banana,0.3,Not Fresh,16,4.47,ST004,Mumbai,FruityFast,2,71.52,1
+2025-02-12,Orange,0.72,Fresh,101,2.0,ST001,Mumbai,QuickHarvest,3,202.0,0
+2025-03-22,Banana,0.55,Not Fresh,59,2.24,ST002,Delhi,AgroSupply,0,132.16000000000003,1
+2025-01-31,Apple,0.62,Fresh,72,4.31,ST002,Bangalore,FruityFast,0,310.32,0
+2025-03-06,Apple,0.81,Fresh,157,1.18,ST003,Mumbai,FruityFast,3,185.26,0
+2025-02-27,Pineapple,0.83,Fresh,80,4.86,ST003,Delhi,DistriFresh,4,388.8,0
+2025-03-08,Mango,0.57,Not Fresh,88,1.35,ST004,Bangalore,FruityFast,1,118.80000000000001,1
+2025-03-20,Mango,0.82,Fresh,183,4.98,ST004,Delhi,AgroSupply,2,911.34,0
+2025-01-06,Banana,0.4,Not Fresh,14,3.53,ST003,Hyderabad,QuickHarvest,3,49.419999999999995,1
+2025-01-07,Orange,0.86,Fresh,25,3.73,ST002,Mumbai,DistriFresh,5,93.25,0
+2025-03-14,Apple,0.52,Not Fresh,18,2.68,ST001,Hyderabad,FruityFast,5,48.24,1
+2025-03-14,Orange,0.94,Fresh,196,2.35,ST004,Hyderabad,FruityFast,0,460.6,0
+2025-01-24,Orange,0.87,Fresh,128,3.13,ST003,Mumbai,DistriFresh,2,400.64,0
+2025-03-14,Pineapple,0.54,Not Fresh,60,3.4,ST004,Mumbai,AgroSupply,3,204.0,1
+2025-03-09,Banana,0.67,Fresh,97,4.82,ST001,Mumbai,AgroSupply,1,467.54,0
+2025-02-04,Banana,0.94,Fresh,188,1.91,ST002,Bangalore,AgroSupply,0,359.08,0
+2025-03-03,Mango,0.62,Fresh,126,4.34,ST001,Delhi,QuickHarvest,4,546.84,0
+2025-02-21,Banana,0.87,Fresh,108,4.44,ST002,Mumbai,DistriFresh,0,479.52000000000004,0
+2025-02-07,Pineapple,0.5,Not Fresh,51,3.75,ST002,Mumbai,FruityFast,5,191.25,1
+2025-01-09,Pineapple,0.44,Not Fresh,36,4.54,ST001,Delhi,QuickHarvest,3,163.44,1
+2025-02-03,Pineapple,0.72,Fresh,56,4.83,ST003,Hyderabad,DistriFresh,0,270.48,0
+2025-01-16,Mango,1.0,Fresh,138,4.1,ST001,Bangalore,QuickHarvest,1,565.8,0
+2025-02-22,Orange,0.36,Not Fresh,70,4.53,ST003,Delhi,DistriFresh,0,317.1,1
+2025-03-21,Apple,0.8,Fresh,130,3.31,ST002,Mumbai,DistriFresh,0,430.3,0
+2025-02-06,Pineapple,0.51,Not Fresh,50,3.96,ST002,Mumbai,AgroSupply,2,198.0,1
+2025-01-05,Orange,0.41,Not Fresh,87,3.99,ST001,Bangalore,AgroSupply,2,347.13,1
+2025-02-01,Orange,0.46,Not Fresh,93,2.19,ST004,Bangalore,AgroSupply,1,203.67,1
+2025-02-18,Banana,0.64,Fresh,157,2.37,ST001,Mumbai,FruityFast,4,372.09000000000003,0
+2025-03-24,Pineapple,0.91,Fresh,129,3.16,ST001,Mumbai,AgroSupply,1,407.64000000000004,0
+2025-01-13,Pineapple,0.31,Not Fresh,18,1.44,ST004,Mumbai,FruityFast,3,25.919999999999998,1
+2025-03-19,Mango,0.95,Fresh,82,4.56,ST001,Mumbai,DistriFresh,3,373.91999999999996,0
+2025-01-09,Orange,0.88,Fresh,117,4.96,ST002,Mumbai,FruityFast,4,580.32,0
+2025-01-18,Mango,0.97,Fresh,98,1.62,ST002,Bangalore,QuickHarvest,3,158.76000000000002,0
+2025-01-10,Mango,0.58,Not Fresh,80,4.47,ST004,Bangalore,DistriFresh,3,357.59999999999997,1
+2025-01-03,Mango,0.93,Fresh,56,1.95,ST003,Hyderabad,AgroSupply,1,109.2,0
+2025-01-08,Orange,0.98,Fresh,154,2.6,ST004,Mumbai,FruityFast,1,400.40000000000003,0
+2025-02-12,Mango,0.79,Fresh,23,4.21,ST002,Hyderabad,AgroSupply,1,96.83,0
+2025-03-04,Banana,0.42,Not Fresh,40,2.34,ST003,Bangalore,QuickHarvest,0,93.6,1
+2025-01-25,Orange,0.59,Not Fresh,89,2.24,ST001,Mumbai,FruityFast,5,199.36,1
+2025-01-10,Mango,0.51,Not Fresh,6,3.88,ST001,Bangalore,AgroSupply,4,23.28,1
+2025-02-06,Pineapple,0.68,Fresh,101,3.98,ST001,Hyderabad,QuickHarvest,5,401.98,0
+2025-01-06,Orange,0.69,Fresh,77,1.85,ST001,Delhi,QuickHarvest,2,142.45000000000002,0
+2025-02-14,Mango,0.85,Fresh,124,2.59,ST002,Mumbai,AgroSupply,3,321.15999999999997,0
+2025-01-07,Mango,0.6,Fresh,74,1.82,ST002,Bangalore,AgroSupply,1,134.68,0
+2025-03-27,Apple,0.73,Fresh,186,1.71,ST003,Delhi,DistriFresh,3,318.06,0
+2025-04-01,Pineapple,0.62,Fresh,130,2.42,ST004,Hyderabad,AgroSupply,3,314.59999999999997,0
+2025-02-22,Apple,0.84,Fresh,114,3.74,ST001,Bangalore,FruityFast,2,426.36,0
+2025-01-07,Orange,0.72,Fresh,72,1.17,ST001,Delhi,FruityFast,5,84.24,0
+2025-02-19,Banana,0.74,Fresh,141,1.46,ST004,Hyderabad,FruityFast,0,205.85999999999999,0
+2025-03-13,Mango,0.46,Not Fresh,37,1.32,ST001,Delhi,QuickHarvest,2,48.84,1
+2025-03-14,Banana,0.8,Fresh,66,2.25,ST001,Mumbai,AgroSupply,0,148.5,0
+2025-01-30,Apple,0.8,Fresh,29,3.4,ST004,Hyderabad,DistriFresh,3,98.6,0
+2025-02-10,Pineapple,0.82,Fresh,184,4.56,ST001,Delhi,AgroSupply,5,839.04,0
+2025-01-29,Apple,0.87,Fresh,65,2.16,ST003,Hyderabad,QuickHarvest,1,140.4,0
+2025-02-12,Pineapple,0.8,Fresh,160,3.22,ST003,Hyderabad,QuickHarvest,2,515.2,0
+2025-02-23,Orange,0.35,Not Fresh,29,1.23,ST004,Delhi,FruityFast,1,35.67,1
+2025-02-20,Orange,0.52,Not Fresh,70,1.8,ST001,Hyderabad,DistriFresh,5,126.0,1
+2025-03-07,Apple,0.61,Fresh,35,2.88,ST004,Hyderabad,DistriFresh,3,100.8,0
+2025-03-14,Orange,0.72,Fresh,177,1.9,ST004,Mumbai,QuickHarvest,0,336.3,0
+2025-03-11,Apple,0.56,Not Fresh,21,2.09,ST003,Hyderabad,AgroSupply,4,43.89,1
+2025-03-13,Orange,0.81,Fresh,37,3.76,ST003,Bangalore,QuickHarvest,5,139.12,0
+2025-01-08,Mango,0.33,Not Fresh,6,2.12,ST004,Bangalore,AgroSupply,5,12.72,1
+2025-01-12,Banana,0.99,Fresh,111,2.29,ST002,Hyderabad,DistriFresh,0,254.19,0
+2025-03-29,Banana,0.46,Not Fresh,32,3.22,ST002,Hyderabad,QuickHarvest,3,103.04,1
+2025-03-15,Mango,0.59,Not Fresh,100,1.53,ST003,Delhi,QuickHarvest,1,153.0,1
+2025-03-27,Pineapple,0.97,Fresh,72,3.92,ST002,Mumbai,QuickHarvest,1,282.24,0
+2025-01-26,Orange,0.79,Fresh,137,4.53,ST001,Delhi,AgroSupply,1,620.61,0
+2025-01-21,Mango,0.57,Not Fresh,69,1.11,ST003,Delhi,AgroSupply,3,76.59,1
+2025-03-04,Apple,0.63,Fresh,110,2.55,ST003,Mumbai,FruityFast,0,280.5,0
+2025-01-12,Mango,0.65,Fresh,70,1.53,ST004,Delhi,QuickHarvest,1,107.10000000000001,0
+2025-02-12,Banana,0.83,Fresh,76,3.34,ST003,Mumbai,QuickHarvest,0,253.83999999999997,0
+2025-01-21,Apple,0.4,Not Fresh,10,2.99,ST003,Hyderabad,FruityFast,5,29.900000000000002,1
+2025-02-04,Apple,0.49,Not Fresh,17,2.81,ST003,Bangalore,FruityFast,0,47.77,1
+2025-02-05,Mango,0.74,Fresh,120,1.11,ST003,Bangalore,FruityFast,0,133.20000000000002,0
+2025-01-31,Banana,0.41,Not Fresh,98,1.75,ST001,Delhi,DistriFresh,3,171.5,1
+2025-01-14,Apple,0.36,Not Fresh,44,2.01,ST002,Hyderabad,AgroSupply,4,88.44,1
+2025-01-25,Banana,0.5,Not Fresh,24,3.92,ST002,Hyderabad,AgroSupply,0,94.08,1
+2025-02-22,Apple,1.0,Fresh,199,1.36,ST004,Delhi,DistriFresh,1,270.64000000000004,0
+2025-03-07,Mango,0.57,Not Fresh,91,3.12,ST001,Mumbai,DistriFresh,2,283.92,1
+2025-01-12,Pineapple,0.76,Fresh,145,1.85,ST001,Bangalore,DistriFresh,4,268.25,0
+2025-02-07,Apple,0.35,Not Fresh,81,1.64,ST002,Hyderabad,QuickHarvest,2,132.84,1
+2025-01-20,Mango,0.69,Fresh,124,3.62,ST003,Hyderabad,DistriFresh,4,448.88,0
+2025-01-22,Banana,0.98,Fresh,38,2.68,ST002,Hyderabad,DistriFresh,2,101.84,0
+2025-03-08,Orange,0.5,Not Fresh,87,3.39,ST004,Bangalore,QuickHarvest,1,294.93,1
+2025-02-02,Banana,0.79,Fresh,147,1.34,ST002,Hyderabad,FruityFast,0,196.98000000000002,0
+2025-02-25,Mango,0.97,Fresh,186,2.6,ST002,Bangalore,QuickHarvest,4,483.6,0
+2025-02-21,Apple,0.53,Not Fresh,62,1.17,ST002,Mumbai,QuickHarvest,2,72.53999999999999,1
+2025-03-09,Banana,0.43,Not Fresh,80,2.55,ST001,Hyderabad,DistriFresh,2,204.0,1
+2025-01-10,Pineapple,0.7,Fresh,182,4.65,ST001,Bangalore,FruityFast,1,846.3000000000001,0
+2025-03-17,Pineapple,0.7,Fresh,179,4.85,ST002,Bangalore,DistriFresh,2,868.15,0
+2025-02-07,Pineapple,0.61,Fresh,141,3.32,ST003,Mumbai,FruityFast,3,468.12,0
+2025-01-27,Orange,0.37,Not Fresh,35,4.71,ST004,Hyderabad,FruityFast,0,164.85,1
+2025-03-28,Orange,0.9,Fresh,33,3.05,ST001,Bangalore,QuickHarvest,0,100.64999999999999,0
+2025-01-20,Mango,0.48,Not Fresh,11,4.88,ST004,Mumbai,AgroSupply,1,53.68,1
+2025-01-20,Mango,0.76,Fresh,95,2.0,ST004,Mumbai,AgroSupply,2,190.0,0
+2025-01-26,Orange,0.97,Fresh,117,3.73,ST001,Bangalore,QuickHarvest,4,436.41,0
+2025-01-16,Pineapple,0.6,Fresh,181,3.0,ST003,Mumbai,FruityFast,5,543.0,0
+2025-03-20,Apple,0.51,Not Fresh,20,4.59,ST004,Delhi,AgroSupply,5,91.8,1
+2025-01-26,Banana,0.69,Fresh,139,3.98,ST003,Delhi,QuickHarvest,1,553.22,0
+2025-01-04,Mango,0.72,Fresh,145,4.62,ST003,Delhi,AgroSupply,4,669.9,0
+2025-02-19,Mango,0.75,Fresh,168,3.84,ST002,Delhi,FruityFast,5,645.12,0
+2025-02-20,Orange,0.85,Fresh,80,3.86,ST001,Delhi,AgroSupply,3,308.8,0
+2025-02-04,Orange,0.85,Fresh,41,2.62,ST003,Mumbai,QuickHarvest,5,107.42,0
+2025-03-02,Banana,0.38,Not Fresh,92,3.85,ST002,Bangalore,FruityFast,2,354.2,1
+2025-01-06,Apple,0.66,Fresh,96,1.16,ST001,Hyderabad,QuickHarvest,4,111.35999999999999,0
+2025-02-13,Banana,0.7,Fresh,59,3.18,ST003,Hyderabad,QuickHarvest,3,187.62,0
+2025-03-06,Pineapple,0.81,Fresh,29,4.12,ST004,Delhi,QuickHarvest,0,119.48,0
+2025-01-31,Apple,0.93,Fresh,72,3.82,ST004,Mumbai,QuickHarvest,0,275.03999999999996,0
+2025-01-17,Banana,0.38,Not Fresh,26,4.07,ST002,Bangalore,AgroSupply,4,105.82000000000001,1
+2025-01-20,Banana,0.54,Not Fresh,11,1.22,ST002,Bangalore,AgroSupply,4,13.42,1
+2025-03-21,Pineapple,0.68,Fresh,26,2.14,ST003,Hyderabad,FruityFast,1,55.64,0
+2025-02-27,Banana,0.64,Fresh,24,4.54,ST004,Mumbai,FruityFast,4,108.96000000000001,0
+2025-02-21,Apple,0.68,Fresh,75,3.96,ST003,Mumbai,QuickHarvest,4,297.0,0
+2025-01-12,Orange,0.83,Fresh,36,1.51,ST001,Bangalore,AgroSupply,4,54.36,0
+2025-02-19,Banana,0.67,Fresh,158,1.92,ST003,Bangalore,DistriFresh,3,303.36,0
+2025-01-28,Apple,0.48,Not Fresh,45,2.99,ST002,Hyderabad,QuickHarvest,3,134.55,1
+2025-02-11,Apple,0.98,Fresh,79,4.2,ST004,Delhi,AgroSupply,5,331.8,0
+2025-02-18,Orange,0.99,Fresh,84,3.09,ST002,Hyderabad,QuickHarvest,4,259.56,0
+2025-01-30,Apple,0.95,Fresh,143,3.35,ST002,Hyderabad,QuickHarvest,0,479.05,0
+2025-02-12,Pineapple,0.49,Not Fresh,56,1.64,ST003,Delhi,FruityFast,1,91.83999999999999,1
+2025-03-27,Apple,0.82,Fresh,176,1.34,ST001,Hyderabad,AgroSupply,1,235.84,0
+2025-02-21,Orange,0.61,Fresh,156,2.91,ST003,Mumbai,FruityFast,0,453.96000000000004,0
+2025-01-22,Banana,0.5,Not Fresh,69,2.23,ST004,Mumbai,DistriFresh,4,153.87,1
+2025-02-20,Apple,0.78,Fresh,90,1.49,ST004,Delhi,FruityFast,3,134.1,0
+2025-02-28,Pineapple,0.67,Fresh,49,4.32,ST002,Hyderabad,QuickHarvest,0,211.68,0
+2025-01-10,Pineapple,0.91,Fresh,98,1.56,ST003,Hyderabad,FruityFast,4,152.88,0
+2025-01-15,Banana,0.43,Not Fresh,85,2.46,ST001,Hyderabad,QuickHarvest,2,209.1,1
+2025-03-29,Orange,0.92,Fresh,177,1.88,ST004,Mumbai,AgroSupply,5,332.76,0
+2025-03-02,Apple,0.41,Not Fresh,40,2.45,ST003,Delhi,DistriFresh,3,98.0,1
+2025-02-08,Pineapple,0.59,Not Fresh,77,3.83,ST004,Bangalore,DistriFresh,3,294.91,1
+2025-01-14,Orange,0.47,Not Fresh,45,4.02,ST003,Hyderabad,DistriFresh,1,180.89999999999998,1
+2025-01-20,Orange,0.35,Not Fresh,70,3.9,ST001,Delhi,QuickHarvest,4,273.0,1
+2025-01-04,Pineapple,0.44,Not Fresh,43,1.34,ST002,Hyderabad,DistriFresh,0,57.620000000000005,1
+2025-03-26,Pineapple,0.32,Not Fresh,34,4.35,ST001,Bangalore,DistriFresh,4,147.89999999999998,1
+2025-02-23,Mango,0.63,Fresh,20,4.06,ST002,Hyderabad,QuickHarvest,3,81.19999999999999,0
+2025-02-27,Pineapple,0.31,Not Fresh,92,1.81,ST003,Hyderabad,QuickHarvest,2,166.52,1
+2025-01-14,Apple,0.57,Not Fresh,76,2.76,ST001,Mumbai,DistriFresh,2,209.76,1
+2025-01-11,Pineapple,0.37,Not Fresh,87,1.93,ST004,Mumbai,FruityFast,5,167.91,1
+2025-03-02,Orange,0.32,Not Fresh,38,3.21,ST003,Delhi,FruityFast,5,121.98,1
+2025-02-23,Mango,0.41,Not Fresh,92,1.26,ST001,Hyderabad,AgroSupply,4,115.92,1
+2025-03-23,Banana,0.9,Fresh,182,2.46,ST002,Hyderabad,FruityFast,3,447.71999999999997,0
+2025-02-08,Banana,0.36,Not Fresh,82,3.28,ST001,Hyderabad,DistriFresh,0,268.96,1
+2025-02-23,Orange,0.45,Not Fresh,11,3.47,ST002,Mumbai,AgroSupply,3,38.17,1
+2025-03-18,Banana,0.76,Fresh,111,1.16,ST003,Hyderabad,QuickHarvest,3,128.76,0
+2025-01-04,Pineapple,0.58,Not Fresh,19,4.6,ST001,Bangalore,QuickHarvest,1,87.39999999999999,1
+2025-03-30,Orange,0.57,Not Fresh,71,3.15,ST004,Bangalore,AgroSupply,2,223.65,1
+2025-01-14,Apple,0.97,Fresh,22,2.87,ST004,Mumbai,FruityFast,3,63.14,0
+2025-02-14,Banana,0.76,Fresh,180,2.51,ST003,Hyderabad,QuickHarvest,2,451.79999999999995,0
+2025-01-08,Banana,0.6,Fresh,196,2.56,ST004,Delhi,DistriFresh,1,501.76,0
+2025-03-28,Apple,0.49,Not Fresh,39,4.79,ST001,Delhi,FruityFast,1,186.81,1
+2025-02-25,Orange,0.8,Fresh,64,1.92,ST003,Delhi,QuickHarvest,1,122.88,0
+2025-02-15,Pineapple,0.34,Not Fresh,50,4.73,ST004,Bangalore,AgroSupply,4,236.50000000000003,1
+2025-02-07,Apple,0.83,Fresh,82,4.64,ST003,Mumbai,AgroSupply,0,380.47999999999996,0
+2025-03-27,Orange,0.59,Not Fresh,36,2.66,ST001,Hyderabad,DistriFresh,0,95.76,1
+2025-02-16,Orange,0.85,Fresh,123,3.52,ST004,Bangalore,DistriFresh,0,432.96,0
+2025-02-08,Pineapple,0.94,Fresh,47,3.33,ST001,Delhi,AgroSupply,1,156.51,0
+2025-02-02,Orange,0.66,Fresh,137,3.39,ST001,Bangalore,AgroSupply,2,464.43,0
+2025-01-05,Mango,0.35,Not Fresh,47,2.99,ST004,Bangalore,FruityFast,0,140.53,1
+2025-02-26,Apple,0.77,Fresh,102,3.52,ST004,Bangalore,DistriFresh,3,359.04,0
+2025-03-26,Mango,0.34,Not Fresh,25,4.49,ST001,Hyderabad,AgroSupply,1,112.25,1
+2025-01-15,Orange,0.36,Not Fresh,56,3.53,ST001,Hyderabad,AgroSupply,2,197.67999999999998,1
+2025-01-30,Pineapple,0.34,Not Fresh,72,3.94,ST001,Delhi,DistriFresh,1,283.68,1
+2025-02-12,Orange,0.82,Fresh,157,3.14,ST001,Hyderabad,AgroSupply,3,492.98,0
+2025-02-24,Pineapple,0.56,Not Fresh,80,1.89,ST004,Delhi,FruityFast,4,151.2,1
+2025-01-02,Pineapple,0.56,Not Fresh,18,3.23,ST004,Delhi,AgroSupply,5,58.14,1
+2025-03-25,Apple,0.35,Not Fresh,11,3.2,ST004,Hyderabad,QuickHarvest,3,35.2,1
+2025-03-13,Pineapple,0.34,Not Fresh,90,4.15,ST004,Hyderabad,FruityFast,2,373.50000000000006,1
+2025-03-26,Banana,0.69,Fresh,20,4.53,ST003,Delhi,DistriFresh,2,90.60000000000001,0
+2025-03-27,Pineapple,0.77,Fresh,180,3.18,ST001,Hyderabad,DistriFresh,0,572.4,0
+2025-02-19,Mango,0.35,Not Fresh,8,3.43,ST004,Hyderabad,AgroSupply,5,27.44,1
+2025-01-25,Pineapple,0.88,Fresh,73,2.44,ST001,Mumbai,QuickHarvest,1,178.12,0
+2025-02-01,Banana,0.44,Not Fresh,11,1.33,ST002,Mumbai,QuickHarvest,1,14.63,1
+2025-03-07,Apple,0.94,Fresh,34,2.25,ST002,Mumbai,QuickHarvest,5,76.5,0
+2025-02-10,Banana,0.44,Not Fresh,79,4.37,ST002,Delhi,QuickHarvest,3,345.23,1
+2025-03-04,Pineapple,0.43,Not Fresh,17,4.09,ST003,Delhi,FruityFast,2,69.53,1
+2025-01-06,Orange,0.95,Fresh,200,4.8,ST001,Hyderabad,AgroSupply,3,960.0,0
+2025-03-05,Mango,0.39,Not Fresh,38,1.17,ST004,Mumbai,DistriFresh,1,44.459999999999994,1
+2025-03-28,Apple,0.62,Fresh,50,1.27,ST004,Mumbai,AgroSupply,2,63.5,0
+2025-01-27,Mango,0.69,Fresh,64,1.77,ST003,Mumbai,QuickHarvest,2,113.28,0
+2025-01-26,Pineapple,1.0,Fresh,107,1.46,ST001,Bangalore,QuickHarvest,2,156.22,0
+2025-01-18,Mango,0.63,Fresh,116,1.55,ST004,Delhi,AgroSupply,4,179.8,0
+2025-03-21,Orange,0.42,Not Fresh,86,1.26,ST004,Hyderabad,DistriFresh,2,108.36,1
+2025-01-23,Pineapple,0.52,Not Fresh,78,2.45,ST004,Mumbai,AgroSupply,3,191.10000000000002,1
+2025-03-22,Banana,0.54,Not Fresh,64,4.8,ST004,Mumbai,DistriFresh,4,307.2,1
+2025-01-01,Mango,0.85,Fresh,61,3.71,ST003,Mumbai,QuickHarvest,4,226.31,0
+2025-01-05,Apple,0.84,Fresh,51,2.11,ST003,Mumbai,DistriFresh,2,107.61,0
+2025-01-16,Pineapple,0.77,Fresh,20,3.57,ST004,Mumbai,AgroSupply,3,71.39999999999999,0
+2025-01-03,Orange,0.82,Fresh,21,3.07,ST001,Hyderabad,DistriFresh,3,64.47,0
+2025-01-28,Apple,0.61,Fresh,62,4.44,ST003,Bangalore,FruityFast,1,275.28000000000003,0
+2025-03-18,Mango,0.89,Fresh,33,4.73,ST002,Mumbai,FruityFast,5,156.09,0
+2025-01-18,Orange,0.32,Not Fresh,7,4.55,ST001,Hyderabad,AgroSupply,2,31.849999999999998,1
+2025-03-07,Apple,0.81,Fresh,83,1.09,ST001,Delhi,AgroSupply,4,90.47000000000001,0
+2025-01-22,Pineapple,0.87,Fresh,103,1.62,ST002,Delhi,AgroSupply,5,166.86,0
+2025-03-18,Mango,0.59,Not Fresh,44,2.22,ST002,Bangalore,AgroSupply,4,97.68,1
+2025-01-06,Banana,0.39,Not Fresh,16,4.66,ST002,Bangalore,AgroSupply,1,74.56,1
+2025-02-15,Mango,0.38,Not Fresh,8,2.6,ST003,Mumbai,FruityFast,5,20.8,1
+2025-02-09,Banana,0.66,Fresh,29,3.72,ST003,Hyderabad,DistriFresh,5,107.88000000000001,0
+2025-01-28,Pineapple,0.72,Fresh,75,2.84,ST002,Hyderabad,AgroSupply,2,213.0,0
+2025-03-01,Pineapple,0.62,Fresh,140,2.72,ST002,Bangalore,DistriFresh,4,380.8,0
+2025-03-17,Orange,0.59,Not Fresh,80,3.25,ST004,Bangalore,QuickHarvest,5,260.0,1
+2025-01-03,Orange,0.98,Fresh,126,3.49,ST004,Bangalore,AgroSupply,3,439.74,0
+2025-02-01,Apple,0.33,Not Fresh,55,4.53,ST002,Mumbai,FruityFast,3,249.15,1
+2025-03-08,Mango,0.43,Not Fresh,82,1.41,ST003,Bangalore,FruityFast,2,115.61999999999999,1
+2025-03-21,Pineapple,0.57,Not Fresh,33,1.57,ST002,Mumbai,QuickHarvest,0,51.81,1
+2025-04-01,Apple,0.46,Not Fresh,76,4.89,ST003,Bangalore,DistriFresh,2,371.64,1
+2025-03-11,Mango,0.46,Not Fresh,12,3.17,ST003,Hyderabad,AgroSupply,1,38.04,1
+2025-03-18,Pineapple,0.63,Fresh,24,2.67,ST002,Bangalore,QuickHarvest,1,64.08,0
+2025-01-22,Orange,0.94,Fresh,177,1.84,ST002,Delhi,DistriFresh,5,325.68,0
+2025-01-29,Mango,0.73,Fresh,82,4.42,ST002,Mumbai,DistriFresh,2,362.44,0
+2025-01-06,Mango,0.39,Not Fresh,43,2.99,ST003,Delhi,DistriFresh,4,128.57000000000002,1
+2025-03-11,Pineapple,0.91,Fresh,102,3.29,ST004,Delhi,DistriFresh,5,335.58,0
+2025-03-15,Orange,0.92,Fresh,110,3.69,ST001,Hyderabad,FruityFast,4,405.9,0
+2025-01-20,Pineapple,0.53,Not Fresh,99,2.0,ST004,Mumbai,QuickHarvest,3,198.0,1
+2025-03-27,Banana,0.48,Not Fresh,34,3.4,ST003,Mumbai,FruityFast,0,115.6,1
+2025-03-04,Pineapple,0.84,Fresh,176,3.75,ST003,Mumbai,DistriFresh,5,660.0,0
+2025-03-08,Pineapple,0.54,Not Fresh,40,3.87,ST001,Hyderabad,QuickHarvest,0,154.8,1
+2025-01-17,Mango,0.81,Fresh,25,1.15,ST001,Mumbai,AgroSupply,4,28.749999999999996,0
+2025-02-15,Banana,0.67,Fresh,169,4.16,ST001,Bangalore,DistriFresh,1,703.0400000000001,0
+2025-01-21,Pineapple,0.32,Not Fresh,70,1.21,ST001,Bangalore,DistriFresh,5,84.7,1
+2025-02-03,Orange,0.83,Fresh,144,2.34,ST002,Delhi,FruityFast,2,336.96,0
+2025-02-11,Mango,0.77,Fresh,108,1.32,ST002,Delhi,QuickHarvest,5,142.56,0
+2025-03-21,Pineapple,0.49,Not Fresh,93,2.72,ST004,Bangalore,DistriFresh,1,252.96,1
+2025-02-08,Pineapple,0.97,Fresh,22,4.47,ST001,Hyderabad,QuickHarvest,2,98.33999999999999,0
+2025-02-07,Orange,0.46,Not Fresh,57,1.65,ST003,Delhi,DistriFresh,0,94.05,1
+2025-02-10,Banana,0.98,Fresh,131,1.48,ST004,Bangalore,FruityFast,5,193.88,0
+2025-03-03,Mango,0.68,Fresh,37,2.73,ST003,Delhi,DistriFresh,0,101.01,0
+2025-01-11,Pineapple,0.78,Fresh,103,2.96,ST003,Bangalore,DistriFresh,3,304.88,0
+2025-03-23,Orange,0.9,Fresh,164,4.87,ST004,Bangalore,QuickHarvest,0,798.6800000000001,0
+2025-03-03,Orange,0.94,Fresh,167,1.56,ST003,Hyderabad,QuickHarvest,5,260.52,0
+2025-02-02,Apple,0.81,Fresh,42,1.75,ST003,Delhi,QuickHarvest,4,73.5,0
+2025-03-24,Mango,0.52,Not Fresh,82,2.95,ST003,Mumbai,DistriFresh,0,241.9,1
+2025-04-01,Pineapple,0.93,Fresh,70,1.95,ST002,Bangalore,DistriFresh,0,136.5,0
+2025-03-30,Banana,0.94,Fresh,169,4.82,ST003,Hyderabad,DistriFresh,0,814.58,0
+2025-02-02,Pineapple,0.64,Fresh,171,1.16,ST003,Delhi,QuickHarvest,0,198.35999999999999,0
+2025-02-14,Banana,0.96,Fresh,78,2.54,ST001,Bangalore,QuickHarvest,4,198.12,0
+2025-02-03,Mango,0.95,Fresh,67,3.22,ST001,Hyderabad,QuickHarvest,3,215.74,0
+2025-02-18,Banana,0.65,Fresh,62,3.18,ST004,Bangalore,QuickHarvest,4,197.16,0
+2025-03-11,Pineapple,0.49,Not Fresh,84,4.29,ST001,Delhi,AgroSupply,5,360.36,1
+2025-02-11,Banana,0.44,Not Fresh,17,2.2,ST004,Hyderabad,AgroSupply,3,37.400000000000006,1
+2025-02-06,Orange,0.86,Fresh,75,1.98,ST004,Mumbai,QuickHarvest,5,148.5,0
+2025-02-26,Banana,0.44,Not Fresh,89,3.92,ST001,Bangalore,QuickHarvest,5,348.88,1
+2025-02-15,Banana,0.74,Fresh,175,3.76,ST003,Mumbai,AgroSupply,5,658.0,0
+2025-03-02,Mango,0.99,Fresh,33,4.01,ST001,Bangalore,DistriFresh,1,132.32999999999998,0
+2025-03-10,Apple,0.95,Fresh,150,1.25,ST003,Bangalore,DistriFresh,5,187.5,0
+2025-01-11,Apple,0.71,Fresh,86,2.74,ST004,Mumbai,DistriFresh,3,235.64000000000001,0
+2025-03-10,Orange,0.58,Not Fresh,46,4.38,ST003,Hyderabad,AgroSupply,0,201.48,1
+2025-01-10,Orange,0.71,Fresh,166,2.2,ST001,Hyderabad,AgroSupply,1,365.20000000000005,0
+2025-01-22,Apple,0.36,Not Fresh,50,2.6,ST001,Bangalore,FruityFast,5,130.0,1
+2025-01-14,Apple,0.79,Fresh,142,3.54,ST002,Bangalore,DistriFresh,3,502.68,0
+2025-01-07,Banana,0.76,Fresh,64,2.75,ST001,Bangalore,AgroSupply,5,176.0,0
+2025-01-19,Apple,0.81,Fresh,169,2.29,ST003,Bangalore,QuickHarvest,2,387.01,0
+2025-03-06,Orange,0.62,Fresh,161,2.03,ST004,Delhi,QuickHarvest,2,326.83,0
+2025-01-17,Banana,0.87,Fresh,100,4.44,ST002,Bangalore,QuickHarvest,5,444.00000000000006,0
+2025-03-07,Orange,0.34,Not Fresh,86,2.32,ST003,Mumbai,QuickHarvest,2,199.51999999999998,1
+2025-03-05,Pineapple,0.9,Fresh,150,3.13,ST003,Mumbai,QuickHarvest,5,469.5,0
+2025-01-12,Pineapple,0.56,Not Fresh,70,3.41,ST002,Hyderabad,DistriFresh,1,238.70000000000002,1
+2025-03-22,Pineapple,0.62,Fresh,152,2.69,ST003,Mumbai,FruityFast,2,408.88,0
+2025-02-12,Apple,0.56,Not Fresh,52,2.77,ST003,Bangalore,QuickHarvest,1,144.04,1
+2025-03-10,Orange,0.63,Fresh,119,1.04,ST004,Hyderabad,FruityFast,3,123.76,0
+2025-03-08,Apple,0.85,Fresh,45,4.87,ST004,Hyderabad,QuickHarvest,1,219.15,0
+2025-02-24,Orange,0.97,Fresh,123,3.21,ST004,Mumbai,DistriFresh,1,394.83,0
+2025-02-15,Mango,0.33,Not Fresh,34,3.19,ST004,Delhi,DistriFresh,2,108.46,1
+2025-03-27,Orange,0.82,Fresh,93,1.36,ST003,Delhi,AgroSupply,4,126.48,0
+2025-01-23,Apple,0.42,Not Fresh,7,3.52,ST004,Delhi,QuickHarvest,5,24.64,1
+2025-01-19,Banana,0.91,Fresh,140,4.04,ST002,Mumbai,QuickHarvest,5,565.6,0
+2025-02-16,Pineapple,0.95,Fresh,40,3.07,ST002,Mumbai,FruityFast,1,122.8,0
+2025-01-08,Pineapple,0.62,Fresh,126,3.22,ST001,Delhi,DistriFresh,4,405.72,0
+2025-03-24,Pineapple,0.92,Fresh,96,3.7,ST001,Hyderabad,AgroSupply,4,355.20000000000005,0
+2025-03-28,Pineapple,0.99,Fresh,66,2.6,ST004,Delhi,AgroSupply,2,171.6,0
+2025-02-24,Banana,0.69,Fresh,168,3.79,ST004,Delhi,AgroSupply,1,636.72,0
+2025-03-02,Pineapple,0.53,Not Fresh,81,4.24,ST003,Hyderabad,QuickHarvest,0,343.44,1
+2025-01-07,Orange,0.69,Fresh,78,3.78,ST002,Hyderabad,AgroSupply,0,294.84,0
+2025-03-08,Apple,0.98,Fresh,33,4.86,ST004,Bangalore,AgroSupply,0,160.38000000000002,0
+2025-02-28,Mango,0.39,Not Fresh,13,2.62,ST004,Delhi,QuickHarvest,0,34.06,1
+2025-03-05,Mango,0.6,Fresh,84,1.62,ST002,Mumbai,QuickHarvest,3,136.08,0
+2025-04-01,Mango,0.96,Fresh,139,2.79,ST002,Mumbai,DistriFresh,2,387.81,0
+2025-03-21,Mango,0.53,Not Fresh,42,2.07,ST004,Mumbai,DistriFresh,2,86.94,1
+2025-02-02,Apple,1.0,Fresh,99,2.15,ST001,Mumbai,QuickHarvest,0,212.85,0
+2025-03-24,Apple,0.96,Fresh,103,3.65,ST004,Delhi,DistriFresh,4,375.95,0
+2025-02-19,Banana,0.61,Fresh,35,3.9,ST001,Bangalore,DistriFresh,5,136.5,0
+2025-03-31,Orange,0.36,Not Fresh,98,2.35,ST004,Hyderabad,QuickHarvest,2,230.3,1
+2025-02-28,Banana,0.64,Fresh,30,1.17,ST003,Mumbai,AgroSupply,0,35.099999999999994,0
+2025-03-30,Mango,0.62,Fresh,20,3.93,ST001,Hyderabad,DistriFresh,5,78.60000000000001,0
+2025-01-26,Banana,0.65,Fresh,87,1.91,ST003,Hyderabad,AgroSupply,5,166.17,0
+2025-01-25,Mango,0.32,Not Fresh,27,1.61,ST003,Bangalore,FruityFast,4,43.470000000000006,1
+2025-03-02,Orange,0.46,Not Fresh,33,4.26,ST004,Hyderabad,FruityFast,3,140.57999999999998,1
+2025-03-21,Apple,0.77,Fresh,32,2.2,ST002,Delhi,DistriFresh,5,70.4,0
+2025-03-25,Banana,0.52,Not Fresh,95,1.45,ST001,Hyderabad,DistriFresh,5,137.75,1
+2025-02-19,Banana,0.99,Fresh,152,2.18,ST004,Mumbai,DistriFresh,0,331.36,0
+2025-02-22,Apple,0.81,Fresh,164,4.91,ST003,Bangalore,FruityFast,3,805.24,0
+2025-01-25,Orange,0.94,Fresh,193,4.62,ST003,Delhi,QuickHarvest,4,891.66,0
+2025-03-10,Banana,0.59,Not Fresh,38,2.23,ST002,Bangalore,FruityFast,3,84.74,1
+2025-03-07,Mango,0.42,Not Fresh,98,3.17,ST004,Bangalore,AgroSupply,2,310.65999999999997,1
+2025-03-10,Pineapple,0.39,Not Fresh,63,1.84,ST003,Delhi,AgroSupply,2,115.92,1
+2025-01-20,Orange,0.71,Fresh,60,4.38,ST003,Mumbai,QuickHarvest,2,262.8,0
+2025-02-03,Apple,0.61,Fresh,102,2.77,ST003,Delhi,AgroSupply,2,282.54,0
+2025-01-28,Pineapple,0.85,Fresh,113,2.76,ST002,Delhi,DistriFresh,4,311.88,0
+2025-03-20,Banana,0.42,Not Fresh,55,4.51,ST003,Hyderabad,DistriFresh,3,248.04999999999998,1
+2025-01-30,Mango,0.7,Fresh,193,1.27,ST001,Delhi,DistriFresh,2,245.11,0
+2025-03-13,Banana,0.69,Fresh,194,4.03,ST001,Delhi,AgroSupply,5,781.82,0
+2025-02-26,Orange,0.38,Not Fresh,72,4.55,ST003,Hyderabad,QuickHarvest,4,327.59999999999997,1
+2025-03-25,Apple,0.92,Fresh,200,1.08,ST003,Mumbai,AgroSupply,0,216.0,0
+2025-01-28,Orange,0.56,Not Fresh,28,2.0,ST004,Delhi,AgroSupply,0,56.0,1
+2025-02-12,Mango,0.53,Not Fresh,10,2.03,ST001,Delhi,FruityFast,5,20.299999999999997,1
+2025-01-27,Banana,1.0,Fresh,92,2.58,ST001,Bangalore,FruityFast,2,237.36,0
+2025-01-20,Banana,0.6,Fresh,172,2.87,ST001,Hyderabad,QuickHarvest,3,493.64000000000004,0
+2025-02-28,Mango,0.78,Fresh,200,2.59,ST002,Delhi,AgroSupply,3,518.0,0
+2025-03-15,Apple,0.68,Fresh,168,1.2,ST004,Mumbai,FruityFast,4,201.6,0
+2025-02-18,Orange,0.54,Not Fresh,98,4.74,ST001,Mumbai,DistriFresh,2,464.52000000000004,1
+2025-01-30,Orange,0.91,Fresh,104,3.13,ST003,Delhi,AgroSupply,2,325.52,0
+2025-01-04,Pineapple,0.34,Not Fresh,26,3.91,ST003,Hyderabad,QuickHarvest,5,101.66,1
+2025-01-24,Orange,0.4,Not Fresh,42,1.17,ST003,Mumbai,QuickHarvest,2,49.14,1
+2025-03-13,Orange,0.94,Fresh,104,4.03,ST001,Bangalore,DistriFresh,0,419.12,0
+2025-03-27,Pineapple,0.45,Not Fresh,29,3.92,ST004,Bangalore,DistriFresh,4,113.67999999999999,1
+2025-02-01,Pineapple,0.67,Fresh,159,2.97,ST003,Bangalore,FruityFast,2,472.23,0
+2025-02-10,Mango,0.72,Fresh,134,4.34,ST001,Mumbai,AgroSupply,5,581.56,0
+2025-03-15,Mango,0.39,Not Fresh,29,2.25,ST002,Mumbai,AgroSupply,2,65.25,1
+2025-02-20,Apple,0.51,Not Fresh,89,2.32,ST002,Delhi,AgroSupply,1,206.48,1
+2025-03-22,Pineapple,0.74,Fresh,65,1.04,ST003,Bangalore,AgroSupply,3,67.60000000000001,0
+2025-01-11,Apple,0.94,Fresh,106,3.51,ST003,Bangalore,AgroSupply,5,372.06,0
+2025-01-22,Banana,0.46,Not Fresh,25,1.36,ST003,Mumbai,FruityFast,0,34.0,1
+2025-01-16,Banana,0.37,Not Fresh,48,4.19,ST004,Bangalore,QuickHarvest,0,201.12,1
+2025-01-08,Apple,0.34,Not Fresh,90,3.83,ST003,Mumbai,QuickHarvest,3,344.7,1
+2025-01-21,Orange,0.83,Fresh,141,1.05,ST003,Delhi,DistriFresh,4,148.05,0
+2025-02-15,Orange,0.6,Fresh,52,2.81,ST001,Hyderabad,AgroSupply,5,146.12,0
+2025-01-09,Pineapple,0.82,Fresh,127,2.39,ST002,Delhi,FruityFast,4,303.53000000000003,0
+2025-01-08,Pineapple,0.54,Not Fresh,69,4.2,ST002,Mumbai,QuickHarvest,4,289.8,1
+2025-02-02,Orange,0.62,Fresh,60,1.73,ST001,Mumbai,QuickHarvest,1,103.8,0
+2025-02-16,Orange,0.96,Fresh,95,4.88,ST003,Bangalore,FruityFast,3,463.59999999999997,0
+2025-01-23,Apple,0.41,Not Fresh,70,3.6,ST001,Delhi,QuickHarvest,3,252.0,1
+2025-03-13,Orange,0.4,Not Fresh,67,4.82,ST002,Bangalore,FruityFast,1,322.94,1
+2025-02-22,Banana,0.8,Fresh,43,1.01,ST002,Delhi,FruityFast,1,43.43,0
+2025-01-06,Orange,0.3,Not Fresh,24,2.21,ST002,Delhi,AgroSupply,2,53.04,1
+2025-02-27,Mango,0.36,Not Fresh,62,2.48,ST002,Mumbai,DistriFresh,1,153.76,1
+2025-03-18,Apple,0.83,Fresh,148,4.4,ST002,Bangalore,AgroSupply,0,651.2,0
+2025-03-07,Banana,0.57,Not Fresh,18,3.32,ST003,Delhi,AgroSupply,0,59.76,1
+2025-01-20,Pineapple,0.99,Fresh,71,1.46,ST004,Delhi,DistriFresh,3,103.66,0
+2025-01-08,Mango,0.8,Fresh,146,1.14,ST001,Hyderabad,DistriFresh,2,166.44,0
+2025-01-01,Pineapple,0.83,Fresh,66,4.86,ST002,Hyderabad,AgroSupply,0,320.76000000000005,0
+2025-01-19,Orange,0.64,Fresh,69,3.82,ST004,Hyderabad,QuickHarvest,2,263.58,0
+2025-01-20,Banana,0.88,Fresh,66,3.08,ST004,Hyderabad,QuickHarvest,3,203.28,0
+2025-02-11,Mango,0.43,Not Fresh,28,2.11,ST001,Delhi,DistriFresh,3,59.08,1
+2025-02-04,Apple,0.46,Not Fresh,58,3.94,ST004,Bangalore,DistriFresh,3,228.52,1
+2025-03-03,Banana,0.9,Fresh,123,3.82,ST001,Bangalore,DistriFresh,3,469.85999999999996,0
+2025-03-02,Banana,0.55,Not Fresh,76,3.7,ST002,Mumbai,QuickHarvest,3,281.2,1
+2025-01-29,Apple,0.59,Not Fresh,44,1.81,ST004,Bangalore,AgroSupply,3,79.64,1
+2025-03-23,Pineapple,0.61,Fresh,153,3.93,ST004,Delhi,QuickHarvest,1,601.2900000000001,0
+2025-03-12,Mango,0.68,Fresh,144,2.63,ST001,Hyderabad,AgroSupply,1,378.71999999999997,0
+2025-03-28,Banana,0.69,Fresh,83,2.5,ST002,Bangalore,AgroSupply,5,207.5,0
+2025-01-08,Mango,0.37,Not Fresh,90,3.23,ST001,Hyderabad,DistriFresh,0,290.7,1
+2025-02-01,Apple,0.75,Fresh,51,3.5,ST003,Mumbai,QuickHarvest,3,178.5,0
+2025-01-01,Pineapple,0.86,Fresh,164,3.48,ST001,Delhi,QuickHarvest,4,570.72,0
+2025-02-04,Apple,0.8,Fresh,134,2.37,ST003,Mumbai,DistriFresh,0,317.58000000000004,0
+2025-02-15,Orange,0.37,Not Fresh,100,2.76,ST004,Mumbai,DistriFresh,5,276.0,1
+2025-02-14,Orange,0.43,Not Fresh,60,2.61,ST004,Bangalore,FruityFast,4,156.6,1
+2025-01-11,Banana,0.8,Fresh,184,3.77,ST001,Mumbai,AgroSupply,5,693.68,0
+2025-03-29,Pineapple,0.62,Fresh,24,1.87,ST002,Hyderabad,AgroSupply,5,44.88,0
+2025-02-16,Orange,0.99,Fresh,152,1.2,ST002,Bangalore,QuickHarvest,0,182.4,0
+2025-01-04,Apple,0.95,Fresh,82,1.3,ST002,Bangalore,AgroSupply,4,106.60000000000001,0
+2025-03-16,Apple,0.35,Not Fresh,10,4.74,ST004,Hyderabad,QuickHarvest,0,47.400000000000006,1
+2025-01-05,Mango,0.88,Fresh,87,1.42,ST001,Delhi,AgroSupply,0,123.53999999999999,0
+2025-03-23,Apple,0.67,Fresh,43,3.03,ST004,Bangalore,FruityFast,0,130.29,0
+2025-01-22,Orange,0.75,Fresh,117,2.48,ST003,Mumbai,DistriFresh,3,290.16,0
+2025-03-16,Pineapple,0.51,Not Fresh,78,2.68,ST001,Bangalore,AgroSupply,3,209.04000000000002,1
+2025-03-13,Orange,0.38,Not Fresh,6,1.82,ST002,Mumbai,FruityFast,3,10.92,1
+2025-01-02,Banana,0.48,Not Fresh,64,4.41,ST002,Delhi,DistriFresh,4,282.24,1
+2025-01-04,Mango,0.6,Fresh,78,3.56,ST001,Mumbai,AgroSupply,3,277.68,0
+2025-01-15,Pineapple,0.34,Not Fresh,92,1.53,ST002,Delhi,FruityFast,0,140.76,1
+2025-03-09,Pineapple,0.9,Fresh,69,1.4,ST002,Hyderabad,AgroSupply,1,96.6,0
+2025-03-17,Apple,0.68,Fresh,168,3.21,ST001,Hyderabad,DistriFresh,3,539.28,0
+2025-03-26,Orange,0.54,Not Fresh,100,4.15,ST004,Bangalore,QuickHarvest,1,415.00000000000006,1
+2025-02-07,Orange,0.41,Not Fresh,9,3.39,ST003,Hyderabad,DistriFresh,1,30.51,1
+2025-02-18,Apple,0.4,Not Fresh,21,2.07,ST001,Delhi,FruityFast,2,43.47,1
+2025-03-13,Orange,0.61,Fresh,83,4.81,ST002,Mumbai,DistriFresh,5,399.22999999999996,0
+2025-03-08,Apple,0.37,Not Fresh,35,1.01,ST002,Delhi,QuickHarvest,3,35.35,1
+2025-02-17,Apple,0.54,Not Fresh,75,1.4,ST003,Bangalore,AgroSupply,2,105.0,1
+2025-01-22,Orange,0.59,Not Fresh,26,2.26,ST004,Mumbai,DistriFresh,0,58.75999999999999,1
+2025-03-26,Orange,0.98,Fresh,123,3.19,ST001,Mumbai,AgroSupply,4,392.37,0
+2025-01-18,Pineapple,0.84,Fresh,64,2.57,ST001,Mumbai,FruityFast,1,164.48,0
+2025-01-25,Pineapple,0.55,Not Fresh,13,3.27,ST002,Delhi,QuickHarvest,2,42.51,1
+2025-01-26,Orange,0.51,Not Fresh,9,4.38,ST002,Delhi,QuickHarvest,4,39.42,1
+2025-02-28,Orange,0.49,Not Fresh,15,1.84,ST001,Bangalore,DistriFresh,1,27.6,1
+2025-03-29,Pineapple,1.0,Fresh,109,2.19,ST001,Hyderabad,FruityFast,1,238.71,0
+2025-03-14,Pineapple,0.98,Fresh,199,1.08,ST004,Hyderabad,FruityFast,2,214.92000000000002,0
+2025-01-17,Orange,0.91,Fresh,21,3.44,ST001,Bangalore,AgroSupply,0,72.24,0
+2025-03-22,Pineapple,0.59,Not Fresh,90,2.3,ST003,Bangalore,FruityFast,0,206.99999999999997,1
+2025-03-11,Banana,0.99,Fresh,188,2.89,ST003,Bangalore,AgroSupply,3,543.32,0
+2025-02-03,Banana,0.42,Not Fresh,21,3.66,ST002,Bangalore,QuickHarvest,3,76.86,1
+2025-02-08,Apple,0.79,Fresh,113,2.11,ST004,Hyderabad,QuickHarvest,5,238.42999999999998,0
+2025-01-16,Apple,0.4,Not Fresh,41,1.81,ST004,Mumbai,QuickHarvest,1,74.21000000000001,1
+2025-02-12,Mango,0.47,Not Fresh,59,2.53,ST002,Delhi,QuickHarvest,3,149.26999999999998,1
+2025-01-20,Mango,0.31,Not Fresh,38,4.08,ST004,Bangalore,QuickHarvest,1,155.04,1
+2025-02-24,Orange,0.5,Not Fresh,42,4.06,ST004,Hyderabad,AgroSupply,5,170.51999999999998,1
+2025-02-03,Orange,0.34,Not Fresh,7,1.91,ST002,Delhi,QuickHarvest,0,13.37,1
+2025-02-13,Pineapple,0.43,Not Fresh,87,2.59,ST002,Bangalore,AgroSupply,5,225.32999999999998,1
+2025-03-04,Orange,0.81,Fresh,78,2.36,ST004,Hyderabad,FruityFast,2,184.07999999999998,0
+2025-03-05,Banana,0.38,Not Fresh,54,2.44,ST002,Mumbai,DistriFresh,5,131.76,1
+2025-01-17,Pineapple,0.77,Fresh,166,3.67,ST002,Mumbai,DistriFresh,4,609.22,0
+2025-01-04,Banana,0.45,Not Fresh,84,1.85,ST001,Bangalore,FruityFast,0,155.4,1
+2025-01-21,Mango,0.69,Fresh,72,3.22,ST002,Hyderabad,DistriFresh,0,231.84,0
+2025-01-09,Pineapple,0.67,Fresh,30,3.99,ST003,Hyderabad,DistriFresh,4,119.7,0
+2025-01-28,Mango,0.89,Fresh,36,2.49,ST004,Mumbai,AgroSupply,1,89.64000000000001,0
+2025-03-10,Orange,0.75,Fresh,109,2.31,ST004,Hyderabad,DistriFresh,1,251.79,0
+2025-01-13,Banana,0.8,Fresh,170,3.35,ST003,Delhi,AgroSupply,3,569.5,0
+2025-01-22,Orange,0.7,Fresh,51,4.25,ST004,Delhi,QuickHarvest,5,216.75,0
+2025-02-02,Mango,0.68,Fresh,47,2.76,ST004,Bangalore,DistriFresh,5,129.72,0
+2025-02-22,Mango,0.54,Not Fresh,50,4.95,ST002,Bangalore,FruityFast,1,247.5,1
+2025-03-25,Apple,0.95,Fresh,79,4.27,ST001,Delhi,FruityFast,4,337.33,0
+2025-03-07,Apple,0.42,Not Fresh,32,4.36,ST001,Bangalore,QuickHarvest,4,139.52,1
+2025-03-27,Banana,0.85,Fresh,184,4.04,ST003,Hyderabad,DistriFresh,3,743.36,0
+2025-02-04,Pineapple,0.84,Fresh,189,1.45,ST003,Hyderabad,AgroSupply,5,274.05,0
+2025-03-30,Apple,0.84,Fresh,186,1.51,ST004,Hyderabad,QuickHarvest,2,280.86,0
+2025-01-22,Mango,0.76,Fresh,186,4.57,ST001,Hyderabad,FruityFast,1,850.0200000000001,0
+2025-03-26,Orange,0.52,Not Fresh,55,2.08,ST001,Bangalore,FruityFast,1,114.4,1
+2025-03-30,Pineapple,0.75,Fresh,134,1.65,ST003,Hyderabad,FruityFast,5,221.1,0
+2025-01-16,Orange,0.87,Fresh,130,1.47,ST004,Hyderabad,FruityFast,2,191.1,0
+2025-01-30,Apple,0.4,Not Fresh,91,1.55,ST004,Bangalore,QuickHarvest,1,141.05,1
+2025-03-19,Banana,0.4,Not Fresh,8,1.43,ST002,Bangalore,AgroSupply,2,11.44,1
+2025-02-15,Banana,0.87,Fresh,76,4.74,ST004,Hyderabad,DistriFresh,2,360.24,0
+2025-01-03,Banana,0.67,Fresh,57,1.52,ST001,Hyderabad,QuickHarvest,4,86.64,0
+2025-04-01,Pineapple,0.3,Not Fresh,9,4.41,ST002,Bangalore,FruityFast,2,39.69,1
+2025-02-09,Orange,0.59,Not Fresh,25,4.01,ST004,Hyderabad,FruityFast,2,100.25,1
+2025-01-29,Orange,0.89,Fresh,171,4.5,ST002,Bangalore,AgroSupply,5,769.5,0
+2025-01-23,Mango,0.79,Fresh,53,2.27,ST004,Bangalore,DistriFresh,5,120.31,0
+2025-01-11,Orange,0.73,Fresh,75,2.39,ST003,Delhi,FruityFast,4,179.25,0
+2025-03-08,Pineapple,0.68,Fresh,184,2.17,ST001,Hyderabad,AgroSupply,4,399.28,0
+2025-03-24,Banana,0.81,Fresh,187,1.39,ST001,Mumbai,QuickHarvest,1,259.93,0
+2025-02-15,Mango,0.8,Fresh,101,4.49,ST004,Delhi,DistriFresh,3,453.49,0
+2025-02-16,Banana,0.56,Not Fresh,100,3.49,ST004,Bangalore,QuickHarvest,4,349.0,1
+2025-01-24,Mango,0.55,Not Fresh,25,2.28,ST003,Mumbai,FruityFast,4,56.99999999999999,1
+2025-03-04,Banana,0.71,Fresh,104,3.82,ST003,Delhi,QuickHarvest,3,397.28,0
+2025-03-15,Banana,0.37,Not Fresh,42,1.62,ST003,Mumbai,FruityFast,1,68.04,1
+2025-02-24,Pineapple,0.54,Not Fresh,70,3.83,ST004,Bangalore,AgroSupply,4,268.1,1
+2025-04-01,Mango,0.49,Not Fresh,85,2.01,ST002,Delhi,FruityFast,1,170.85,1
+2025-02-21,Orange,0.33,Not Fresh,61,2.04,ST001,Delhi,AgroSupply,2,124.44,1
+2025-02-21,Apple,0.35,Not Fresh,66,4.08,ST001,Mumbai,AgroSupply,2,269.28000000000003,1
+2025-02-08,Banana,0.78,Fresh,80,4.03,ST003,Mumbai,QuickHarvest,2,322.40000000000003,0
+2025-01-28,Banana,0.37,Not Fresh,78,2.08,ST004,Hyderabad,AgroSupply,5,162.24,1
+2025-03-02,Pineapple,0.91,Fresh,56,1.8,ST004,Hyderabad,FruityFast,5,100.8,0
+2025-01-01,Banana,0.78,Fresh,173,4.81,ST002,Bangalore,AgroSupply,4,832.1299999999999,0
+2025-01-17,Banana,0.49,Not Fresh,89,1.07,ST002,Bangalore,QuickHarvest,3,95.23,1
+2025-02-07,Apple,0.36,Not Fresh,64,2.14,ST002,Hyderabad,DistriFresh,4,136.96,1
+2025-03-26,Apple,0.45,Not Fresh,81,2.59,ST003,Bangalore,DistriFresh,3,209.79,1
+2025-03-12,Apple,0.65,Fresh,76,4.17,ST004,Mumbai,QuickHarvest,3,316.92,0
+2025-01-25,Orange,0.8,Fresh,97,3.69,ST001,Mumbai,FruityFast,1,357.93,0
+2025-03-17,Pineapple,0.89,Fresh,125,4.86,ST003,Mumbai,FruityFast,3,607.5,0
+2025-02-15,Apple,0.53,Not Fresh,65,5.0,ST002,Hyderabad,AgroSupply,3,325.0,1
+2025-03-02,Apple,0.57,Not Fresh,31,1.37,ST004,Bangalore,FruityFast,5,42.470000000000006,1
+2025-01-16,Pineapple,0.94,Fresh,148,3.29,ST004,Mumbai,FruityFast,1,486.92,0
+2025-02-25,Orange,0.51,Not Fresh,87,4.11,ST004,Hyderabad,DistriFresh,0,357.57000000000005,1
+2025-01-02,Mango,0.58,Not Fresh,93,2.97,ST003,Bangalore,QuickHarvest,5,276.21000000000004,1
+2025-02-28,Pineapple,0.9,Fresh,20,3.21,ST004,Hyderabad,AgroSupply,1,64.2,0
+2025-01-20,Pineapple,0.87,Fresh,163,3.66,ST003,Delhi,QuickHarvest,4,596.58,0
+2025-01-04,Apple,0.92,Fresh,46,3.2,ST001,Mumbai,FruityFast,5,147.20000000000002,0
+2025-03-13,Pineapple,0.6,Fresh,91,3.61,ST002,Bangalore,FruityFast,4,328.51,0
+2025-01-26,Pineapple,0.94,Fresh,164,1.11,ST003,Bangalore,FruityFast,5,182.04000000000002,0
+2025-01-14,Pineapple,0.9,Fresh,153,3.23,ST003,Delhi,QuickHarvest,2,494.19,0
+2025-03-28,Apple,0.34,Not Fresh,30,3.05,ST002,Hyderabad,AgroSupply,0,91.5,1
+2025-01-28,Mango,0.4,Not Fresh,58,3.14,ST002,Mumbai,FruityFast,4,182.12,1
+2025-01-12,Pineapple,0.62,Fresh,70,1.43,ST004,Delhi,FruityFast,3,100.1,0
+2025-02-15,Pineapple,0.6,Fresh,126,2.33,ST001,Bangalore,FruityFast,2,293.58,0
+2025-04-01,Apple,0.54,Not Fresh,11,3.89,ST002,Mumbai,QuickHarvest,5,42.79,1
+2025-03-27,Mango,0.75,Fresh,110,4.22,ST004,Mumbai,FruityFast,4,464.2,0
+2025-02-11,Apple,0.81,Fresh,123,4.36,ST004,Hyderabad,DistriFresh,4,536.2800000000001,0
+2025-01-20,Pineapple,0.9,Fresh,141,3.28,ST003,Mumbai,DistriFresh,3,462.47999999999996,0
+2025-02-15,Mango,0.98,Fresh,25,3.91,ST004,Delhi,QuickHarvest,0,97.75,0
+2025-03-28,Pineapple,0.37,Not Fresh,54,1.55,ST004,Hyderabad,AgroSupply,1,83.7,1
+2025-01-21,Orange,0.74,Fresh,86,4.68,ST001,Bangalore,AgroSupply,3,402.47999999999996,0
+2025-01-19,Banana,0.51,Not Fresh,89,1.28,ST001,Delhi,AgroSupply,1,113.92,1
+2025-03-14,Banana,0.99,Fresh,62,3.19,ST004,Hyderabad,FruityFast,4,197.78,0
+2025-01-31,Orange,0.42,Not Fresh,99,2.85,ST001,Bangalore,DistriFresh,4,282.15000000000003,1
+2025-01-02,Apple,0.87,Fresh,23,3.92,ST003,Hyderabad,AgroSupply,2,90.16,0
+2025-01-27,Orange,0.98,Fresh,155,1.65,ST001,Bangalore,DistriFresh,0,255.75,0
+2025-02-03,Mango,0.94,Fresh,76,4.05,ST003,Bangalore,AgroSupply,4,307.8,0
+2025-01-11,Banana,0.48,Not Fresh,57,1.36,ST004,Hyderabad,QuickHarvest,2,77.52000000000001,1
+2025-02-13,Orange,0.37,Not Fresh,83,4.2,ST002,Hyderabad,FruityFast,3,348.6,1
+2025-01-12,Banana,0.94,Fresh,147,4.51,ST003,Bangalore,QuickHarvest,0,662.9699999999999,0
+2025-02-15,Pineapple,0.75,Fresh,176,2.09,ST001,Hyderabad,QuickHarvest,0,367.84,0
+2025-02-04,Mango,0.85,Fresh,29,4.55,ST004,Bangalore,DistriFresh,0,131.95,0
+2025-01-14,Mango,0.7,Fresh,77,1.07,ST004,Bangalore,FruityFast,1,82.39,0
+2025-01-09,Apple,0.46,Not Fresh,54,2.31,ST004,Mumbai,QuickHarvest,4,124.74000000000001,1
+2025-03-29,Mango,0.98,Fresh,60,2.69,ST002,Mumbai,FruityFast,4,161.4,0
+2025-03-14,Orange,0.75,Fresh,139,1.23,ST001,Mumbai,QuickHarvest,0,170.97,0
+2025-02-18,Mango,0.34,Not Fresh,29,2.08,ST004,Mumbai,AgroSupply,0,60.32,1
+2025-03-11,Apple,0.65,Fresh,97,4.75,ST001,Mumbai,DistriFresh,3,460.75,0
+2025-01-15,Apple,0.97,Fresh,35,2.9,ST001,Mumbai,FruityFast,4,101.5,0
+2025-03-21,Banana,0.75,Fresh,151,4.81,ST004,Delhi,AgroSupply,1,726.31,0
+2025-01-29,Pineapple,0.5,Not Fresh,44,2.64,ST003,Hyderabad,AgroSupply,0,116.16000000000001,1
+2025-01-17,Pineapple,0.91,Fresh,82,4.91,ST001,Hyderabad,AgroSupply,0,402.62,0
+2025-03-01,Pineapple,0.34,Not Fresh,94,3.8,ST001,Delhi,AgroSupply,1,357.2,1
+2025-02-19,Mango,0.9,Fresh,142,1.11,ST001,Bangalore,FruityFast,0,157.62,0
+2025-01-20,Pineapple,0.46,Not Fresh,55,4.6,ST003,Delhi,FruityFast,4,252.99999999999997,1
+2025-03-09,Apple,0.73,Fresh,182,2.02,ST004,Hyderabad,FruityFast,5,367.64,0
+2025-01-03,Apple,0.44,Not Fresh,89,1.23,ST004,Delhi,QuickHarvest,1,109.47,1
+2025-02-01,Mango,0.84,Fresh,163,3.92,ST001,Hyderabad,FruityFast,1,638.96,0
+2025-02-16,Apple,0.84,Fresh,42,2.41,ST004,Delhi,FruityFast,1,101.22,0
+2025-03-04,Mango,0.98,Fresh,97,2.31,ST004,Mumbai,DistriFresh,4,224.07,0
+2025-02-22,Pineapple,0.36,Not Fresh,5,1.17,ST003,Hyderabad,FruityFast,3,5.85,1
+2025-03-23,Banana,0.44,Not Fresh,99,3.99,ST002,Hyderabad,FruityFast,4,395.01000000000005,1
+2025-02-01,Mango,0.62,Fresh,123,1.71,ST002,Mumbai,QuickHarvest,5,210.32999999999998,0
+2025-02-02,Pineapple,0.92,Fresh,194,1.73,ST001,Mumbai,AgroSupply,2,335.62,0
+2025-01-19,Pineapple,0.46,Not Fresh,49,1.51,ST003,Hyderabad,DistriFresh,5,73.99,1
+2025-02-02,Mango,0.38,Not Fresh,96,4.31,ST002,Delhi,FruityFast,0,413.76,1
+2025-02-01,Apple,0.47,Not Fresh,51,3.7,ST002,Mumbai,DistriFresh,0,188.70000000000002,1
+2025-01-08,Orange,0.99,Fresh,198,4.68,ST004,Bangalore,DistriFresh,0,926.64,0
+2025-03-22,Pineapple,0.37,Not Fresh,38,1.56,ST004,Bangalore,FruityFast,5,59.28,1
+2025-02-22,Pineapple,0.35,Not Fresh,67,2.7,ST002,Bangalore,QuickHarvest,5,180.9,1
+2025-03-20,Apple,0.78,Fresh,142,4.82,ST001,Bangalore,QuickHarvest,1,684.44,0
+2025-03-13,Apple,0.58,Not Fresh,34,3.2,ST004,Delhi,QuickHarvest,5,108.80000000000001,1
+2025-02-16,Mango,0.43,Not Fresh,84,2.68,ST001,Mumbai,AgroSupply,5,225.12,1
+2025-02-01,Apple,0.85,Fresh,96,4.31,ST004,Hyderabad,QuickHarvest,3,413.76,0
+2025-01-26,Orange,0.54,Not Fresh,48,2.26,ST003,Delhi,AgroSupply,2,108.47999999999999,1
+2025-02-24,Pineapple,0.58,Not Fresh,91,2.57,ST003,Bangalore,DistriFresh,0,233.86999999999998,1
+2025-03-11,Pineapple,0.73,Fresh,78,3.44,ST004,Bangalore,FruityFast,4,268.32,0
+2025-03-26,Banana,0.39,Not Fresh,39,3.36,ST002,Hyderabad,AgroSupply,5,131.04,1
+2025-03-14,Mango,0.69,Fresh,113,1.63,ST002,Mumbai,FruityFast,4,184.19,0
+2025-01-20,Orange,0.91,Fresh,33,3.21,ST001,Mumbai,QuickHarvest,0,105.92999999999999,0
+2025-03-11,Pineapple,0.94,Fresh,62,2.93,ST004,Bangalore,QuickHarvest,0,181.66,0
+2025-02-15,Apple,0.5,Not Fresh,7,2.32,ST003,Bangalore,QuickHarvest,5,16.24,1
+2025-02-21,Banana,0.67,Fresh,185,3.17,ST001,Hyderabad,DistriFresh,5,586.4499999999999,0
+2025-03-11,Mango,0.99,Fresh,45,4.04,ST003,Delhi,FruityFast,4,181.8,0
+2025-01-13,Apple,0.61,Fresh,192,2.63,ST003,Mumbai,QuickHarvest,0,504.96,0
+2025-01-23,Banana,0.47,Not Fresh,10,2.79,ST002,Delhi,DistriFresh,3,27.9,1
+2025-01-04,Pineapple,0.94,Fresh,178,4.27,ST001,Mumbai,DistriFresh,0,760.06,0
+2025-03-19,Mango,0.5,Not Fresh,52,3.98,ST003,Hyderabad,FruityFast,5,206.96,1
+2025-01-17,Banana,0.93,Fresh,30,2.07,ST001,Delhi,AgroSupply,5,62.099999999999994,0
+2025-01-28,Orange,0.79,Fresh,47,3.24,ST001,Mumbai,QuickHarvest,4,152.28,0
+2025-02-09,Banana,0.76,Fresh,75,4.65,ST004,Delhi,AgroSupply,3,348.75,0
+2025-03-16,Apple,0.4,Not Fresh,51,3.76,ST001,Hyderabad,QuickHarvest,0,191.76,1
+2025-02-27,Banana,0.41,Not Fresh,100,1.19,ST003,Bangalore,QuickHarvest,4,119.0,1
+2025-02-28,Pineapple,0.97,Fresh,91,1.1,ST003,Hyderabad,DistriFresh,5,100.10000000000001,0
+2025-01-29,Banana,0.93,Fresh,99,3.64,ST002,Mumbai,QuickHarvest,5,360.36,0
+2025-01-11,Pineapple,0.92,Fresh,114,4.29,ST002,Bangalore,FruityFast,2,489.06,0
+2025-01-08,Orange,0.47,Not Fresh,92,4.47,ST002,Delhi,AgroSupply,2,411.23999999999995,1
+2025-03-01,Mango,0.48,Not Fresh,15,3.08,ST004,Bangalore,QuickHarvest,1,46.2,1
+2025-01-10,Banana,0.62,Fresh,189,3.91,ST002,Delhi,DistriFresh,0,738.99,0
+2025-03-09,Mango,0.32,Not Fresh,75,2.02,ST004,Hyderabad,DistriFresh,2,151.5,1
+2025-03-28,Banana,0.64,Fresh,67,4.29,ST002,Hyderabad,AgroSupply,0,287.43,0
+2025-03-20,Pineapple,0.76,Fresh,60,3.54,ST004,Bangalore,DistriFresh,1,212.4,0
+2025-03-12,Mango,0.58,Not Fresh,20,3.15,ST003,Delhi,QuickHarvest,3,63.0,1
+2025-02-11,Orange,0.99,Fresh,45,2.25,ST002,Hyderabad,AgroSupply,2,101.25,0
+2025-01-30,Orange,0.55,Not Fresh,81,1.56,ST004,Hyderabad,DistriFresh,4,126.36,1
+2025-03-15,Apple,0.78,Fresh,23,4.08,ST003,Mumbai,DistriFresh,5,93.84,0
+2025-01-01,Mango,0.72,Fresh,104,1.66,ST004,Hyderabad,AgroSupply,1,172.64,0
+2025-03-15,Mango,0.7,Fresh,171,1.62,ST003,Hyderabad,DistriFresh,5,277.02000000000004,0
+2025-03-04,Mango,0.61,Fresh,22,4.14,ST002,Hyderabad,FruityFast,5,91.08,0
+2025-01-13,Mango,0.74,Fresh,101,1.41,ST001,Mumbai,DistriFresh,2,142.41,0
+2025-02-28,Orange,0.47,Not Fresh,86,1.32,ST003,Delhi,QuickHarvest,1,113.52000000000001,1
+2025-02-26,Apple,0.6,Fresh,80,4.07,ST003,Delhi,AgroSupply,1,325.6,0
+2025-02-13,Apple,0.71,Fresh,160,3.29,ST004,Bangalore,QuickHarvest,1,526.4,0
+2025-03-14,Mango,0.39,Not Fresh,78,4.51,ST001,Bangalore,FruityFast,3,351.78,1
+2025-01-18,Mango,0.76,Fresh,103,4.21,ST001,Mumbai,QuickHarvest,4,433.63,0
+2025-02-13,Apple,0.58,Not Fresh,67,4.12,ST001,Delhi,DistriFresh,4,276.04,1
+2025-02-15,Mango,0.63,Fresh,154,2.88,ST004,Bangalore,FruityFast,3,443.52,0
+2025-02-17,Banana,0.46,Not Fresh,40,4.79,ST002,Hyderabad,AgroSupply,3,191.6,1
+2025-03-18,Mango,0.37,Not Fresh,66,3.9,ST004,Mumbai,DistriFresh,4,257.4,1
+2025-01-18,Apple,0.47,Not Fresh,88,2.12,ST002,Bangalore,DistriFresh,5,186.56,1
+2025-02-09,Apple,0.89,Fresh,21,3.82,ST002,Hyderabad,FruityFast,0,80.22,0
+2025-01-03,Orange,0.81,Fresh,102,1.13,ST003,Bangalore,FruityFast,0,115.25999999999999,0
+2025-02-08,Banana,0.91,Fresh,79,3.69,ST004,Bangalore,AgroSupply,3,291.51,0
+2025-01-03,Pineapple,0.68,Fresh,197,3.23,ST002,Mumbai,AgroSupply,3,636.31,0
+2025-03-13,Mango,0.78,Fresh,31,1.46,ST003,Bangalore,DistriFresh,2,45.26,0
+2025-02-24,Banana,0.87,Fresh,197,3.93,ST004,Mumbai,AgroSupply,0,774.21,0
+2025-01-10,Apple,0.75,Fresh,159,1.9,ST003,Delhi,FruityFast,3,302.09999999999997,0
+2025-01-20,Orange,0.47,Not Fresh,66,4.54,ST004,Bangalore,DistriFresh,2,299.64,1
+2025-02-09,Banana,0.88,Fresh,28,3.52,ST002,Hyderabad,DistriFresh,2,98.56,0
+2025-02-25,Orange,0.68,Fresh,26,2.77,ST002,Hyderabad,AgroSupply,2,72.02,0
+2025-01-10,Orange,0.35,Not Fresh,49,1.65,ST002,Delhi,AgroSupply,0,80.85,1
+2025-01-15,Apple,0.97,Fresh,127,3.67,ST002,Hyderabad,DistriFresh,4,466.09,0
+2025-03-23,Mango,0.92,Fresh,155,4.34,ST004,Bangalore,AgroSupply,2,672.6999999999999,0
+2025-01-14,Mango,0.35,Not Fresh,38,4.44,ST004,Delhi,FruityFast,3,168.72000000000003,1
+2025-03-18,Orange,0.42,Not Fresh,22,2.21,ST004,Hyderabad,QuickHarvest,0,48.62,1
+2025-01-09,Orange,0.34,Not Fresh,35,2.82,ST001,Delhi,QuickHarvest,0,98.69999999999999,1
+2025-02-14,Mango,0.33,Not Fresh,40,4.85,ST001,Mumbai,QuickHarvest,1,194.0,1
+2025-03-25,Apple,0.62,Fresh,29,2.65,ST002,Mumbai,QuickHarvest,3,76.85,0
+2025-03-26,Banana,0.54,Not Fresh,45,3.94,ST001,Delhi,QuickHarvest,5,177.3,1
+2025-01-07,Banana,1.0,Fresh,50,4.12,ST001,Mumbai,QuickHarvest,0,206.0,0
+2025-01-21,Apple,0.61,Fresh,168,4.39,ST003,Hyderabad,DistriFresh,5,737.52,0
+2025-03-18,Orange,0.48,Not Fresh,84,1.01,ST001,Delhi,FruityFast,1,84.84,1
+2025-01-12,Apple,0.52,Not Fresh,43,4.42,ST003,Hyderabad,QuickHarvest,1,190.06,1
+2025-03-10,Pineapple,0.79,Fresh,188,3.21,ST003,Mumbai,QuickHarvest,3,603.48,0
+2025-03-05,Mango,0.31,Not Fresh,82,3.42,ST002,Mumbai,AgroSupply,0,280.44,1
+2025-01-24,Mango,0.57,Not Fresh,96,2.67,ST003,Bangalore,FruityFast,4,256.32,1
+2025-01-15,Orange,0.65,Fresh,68,4.62,ST002,Bangalore,DistriFresh,2,314.16,0
+2025-03-19,Apple,0.81,Fresh,57,3.67,ST001,Bangalore,DistriFresh,5,209.19,0
+2025-03-20,Banana,0.85,Fresh,91,2.56,ST004,Hyderabad,QuickHarvest,0,232.96,0
+2025-01-02,Banana,0.68,Fresh,111,4.84,ST003,Mumbai,DistriFresh,5,537.24,0
+2025-01-13,Mango,0.86,Fresh,52,3.61,ST002,Bangalore,AgroSupply,4,187.72,0
+2025-02-18,Pineapple,0.48,Not Fresh,25,3.1,ST004,Mumbai,QuickHarvest,0,77.5,1
+2025-01-10,Apple,0.79,Fresh,121,2.14,ST003,Mumbai,AgroSupply,3,258.94,0
+2025-03-31,Banana,0.84,Fresh,55,4.32,ST002,Hyderabad,DistriFresh,5,237.60000000000002,0
+2025-03-31,Mango,0.55,Not Fresh,9,3.67,ST003,Mumbai,QuickHarvest,4,33.03,1
+2025-02-23,Mango,0.78,Fresh,108,1.62,ST003,Mumbai,DistriFresh,1,174.96,0
+2025-01-25,Apple,0.5,Not Fresh,59,3.6,ST002,Mumbai,QuickHarvest,1,212.4,1
+2025-01-27,Banana,0.67,Fresh,51,1.98,ST001,Hyderabad,QuickHarvest,2,100.98,0
+2025-01-27,Banana,0.71,Fresh,187,4.49,ST003,Hyderabad,FruityFast,0,839.63,0
+2025-01-10,Apple,0.37,Not Fresh,95,3.19,ST001,Delhi,DistriFresh,0,303.05,1
+2025-04-01,Pineapple,0.42,Not Fresh,79,3.5,ST003,Bangalore,AgroSupply,0,276.5,1
+2025-02-01,Orange,0.94,Fresh,43,1.6,ST001,Hyderabad,DistriFresh,1,68.8,0
+2025-03-16,Apple,0.61,Fresh,38,1.96,ST004,Bangalore,AgroSupply,2,74.48,0
+2025-01-21,Banana,0.9,Fresh,118,3.69,ST003,Mumbai,DistriFresh,3,435.42,0
+2025-01-04,Mango,0.6,Fresh,149,1.37,ST004,Hyderabad,DistriFresh,2,204.13000000000002,0
+2025-03-12,Pineapple,0.36,Not Fresh,47,2.39,ST002,Mumbai,DistriFresh,2,112.33000000000001,1
+2025-03-01,Pineapple,0.54,Not Fresh,15,4.83,ST004,Delhi,DistriFresh,3,72.45,1
+2025-01-20,Banana,0.85,Fresh,171,2.12,ST001,Bangalore,DistriFresh,4,362.52000000000004,0
+2025-01-15,Mango,0.64,Fresh,156,1.86,ST003,Delhi,AgroSupply,0,290.16,0
+2025-03-16,Mango,0.73,Fresh,140,4.65,ST001,Delhi,DistriFresh,0,651.0,0
+2025-02-17,Banana,0.42,Not Fresh,70,1.58,ST002,Hyderabad,AgroSupply,2,110.60000000000001,1
+2025-03-10,Apple,0.59,Not Fresh,31,4.02,ST004,Bangalore,AgroSupply,4,124.61999999999999,1
+2025-01-06,Apple,0.63,Fresh,177,1.84,ST004,Delhi,QuickHarvest,5,325.68,0
+2025-03-15,Mango,0.72,Fresh,55,1.99,ST002,Mumbai,QuickHarvest,3,109.45,0
+2025-03-19,Banana,0.71,Fresh,26,2.32,ST001,Hyderabad,QuickHarvest,5,60.31999999999999,0
+2025-01-05,Banana,0.77,Fresh,102,3.12,ST003,Bangalore,AgroSupply,0,318.24,0
+2025-02-11,Mango,0.49,Not Fresh,88,2.34,ST001,Bangalore,FruityFast,3,205.92,1
+2025-01-03,Apple,0.32,Not Fresh,43,1.01,ST002,Bangalore,FruityFast,1,43.43,1
+2025-03-28,Apple,0.68,Fresh,31,3.05,ST001,Bangalore,FruityFast,0,94.55,0
+2025-01-12,Pineapple,0.44,Not Fresh,25,4.42,ST003,Delhi,QuickHarvest,1,110.5,1
+2025-01-21,Orange,0.97,Fresh,41,3.78,ST003,Delhi,FruityFast,5,154.98,0
+2025-02-14,Banana,0.76,Fresh,191,2.34,ST004,Hyderabad,QuickHarvest,4,446.94,0
+2025-03-06,Mango,0.7,Fresh,45,3.88,ST003,Hyderabad,DistriFresh,1,174.6,0
+2025-02-05,Mango,0.46,Not Fresh,46,2.07,ST002,Bangalore,DistriFresh,1,95.22,1
+2025-02-25,Banana,0.69,Fresh,39,1.0,ST002,Delhi,DistriFresh,4,39.0,0
+2025-03-25,Banana,0.83,Fresh,189,3.57,ST003,Hyderabad,AgroSupply,4,674.73,0
+2025-01-04,Orange,0.76,Fresh,24,4.93,ST003,Hyderabad,AgroSupply,1,118.32,0
+2025-02-10,Pineapple,0.48,Not Fresh,38,4.24,ST004,Delhi,DistriFresh,5,161.12,1
+2025-02-06,Mango,0.77,Fresh,52,2.96,ST002,Mumbai,QuickHarvest,0,153.92,0
+2025-02-26,Banana,0.82,Fresh,187,3.11,ST004,Hyderabad,DistriFresh,3,581.5699999999999,0
+2025-02-08,Orange,0.97,Fresh,127,1.98,ST002,Hyderabad,QuickHarvest,5,251.46,0
+2025-02-01,Apple,0.57,Not Fresh,9,1.43,ST003,Mumbai,QuickHarvest,5,12.87,1
+2025-03-15,Banana,0.5,Not Fresh,6,3.0,ST003,Delhi,DistriFresh,4,18.0,1
+2025-03-03,Orange,0.73,Fresh,96,4.58,ST001,Delhi,DistriFresh,3,439.68,0
+2025-03-06,Orange,0.93,Fresh,172,2.68,ST001,Bangalore,QuickHarvest,3,460.96000000000004,0
+2025-01-15,Banana,0.87,Fresh,33,4.64,ST002,Mumbai,AgroSupply,5,153.11999999999998,0
+2025-03-16,Pineapple,0.39,Not Fresh,65,4.95,ST004,Mumbai,QuickHarvest,3,321.75,1
+2025-02-07,Pineapple,0.92,Fresh,67,2.0,ST003,Delhi,FruityFast,1,134.0,0
+2025-01-08,Mango,0.83,Fresh,185,2.22,ST001,Hyderabad,DistriFresh,1,410.70000000000005,0
+2025-02-03,Banana,0.93,Fresh,151,4.16,ST004,Bangalore,QuickHarvest,2,628.16,0
+2025-03-14,Pineapple,0.66,Fresh,92,1.87,ST004,Hyderabad,DistriFresh,5,172.04000000000002,0
+2025-03-30,Orange,0.3,Not Fresh,17,3.71,ST001,Hyderabad,AgroSupply,2,63.07,1
+2025-02-23,Banana,0.76,Fresh,146,4.29,ST004,Bangalore,AgroSupply,4,626.34,0
+2025-03-28,Pineapple,0.51,Not Fresh,87,2.04,ST002,Mumbai,QuickHarvest,3,177.48,1
+2025-01-27,Pineapple,0.81,Fresh,28,2.43,ST003,Delhi,DistriFresh,4,68.04,0
+2025-03-20,Pineapple,0.63,Fresh,181,1.13,ST001,Delhi,QuickHarvest,0,204.52999999999997,0
+2025-03-19,Apple,0.77,Fresh,34,1.29,ST003,Mumbai,QuickHarvest,2,43.86,0
+2025-01-12,Pineapple,0.36,Not Fresh,62,4.58,ST003,Hyderabad,AgroSupply,3,283.96,1
+2025-02-19,Banana,0.84,Fresh,132,3.21,ST004,Bangalore,QuickHarvest,3,423.71999999999997,0
+2025-01-07,Banana,0.42,Not Fresh,68,1.14,ST003,Hyderabad,FruityFast,5,77.52,1
+2025-01-10,Mango,0.54,Not Fresh,70,2.72,ST001,Bangalore,QuickHarvest,1,190.4,1
+2025-03-07,Banana,0.61,Fresh,126,1.49,ST003,Mumbai,DistriFresh,5,187.74,0
+2025-03-11,Banana,0.53,Not Fresh,72,3.47,ST003,Mumbai,DistriFresh,1,249.84,1
+2025-02-13,Banana,0.85,Fresh,175,1.97,ST003,Bangalore,QuickHarvest,4,344.75,0
+2025-01-03,Banana,0.52,Not Fresh,64,2.85,ST001,Delhi,AgroSupply,1,182.4,1
+2025-02-28,Pineapple,0.51,Not Fresh,50,2.04,ST001,Bangalore,AgroSupply,5,102.0,1
+2025-02-23,Orange,0.8,Fresh,179,2.06,ST002,Delhi,QuickHarvest,0,368.74,0
+2025-01-18,Orange,0.84,Fresh,22,3.54,ST001,Mumbai,DistriFresh,2,77.88,0
+2025-02-23,Banana,0.31,Not Fresh,11,1.89,ST001,Hyderabad,FruityFast,4,20.79,1
+2025-01-05,Banana,0.81,Fresh,76,1.17,ST002,Bangalore,FruityFast,4,88.91999999999999,0
+2025-02-02,Banana,0.85,Fresh,82,3.06,ST004,Hyderabad,QuickHarvest,1,250.92000000000002,0
+2025-02-18,Apple,0.79,Fresh,168,2.99,ST003,Mumbai,AgroSupply,5,502.32000000000005,0
+2025-01-23,Apple,0.62,Fresh,62,3.37,ST004,Bangalore,FruityFast,0,208.94,0
+2025-02-20,Apple,0.85,Fresh,30,3.63,ST001,Hyderabad,FruityFast,1,108.89999999999999,0
+2025-03-16,Apple,0.39,Not Fresh,80,1.31,ST003,Hyderabad,DistriFresh,5,104.80000000000001,1
+2025-03-22,Banana,0.4,Not Fresh,43,4.75,ST003,Hyderabad,AgroSupply,2,204.25,1
+2025-01-26,Mango,0.98,Fresh,176,3.47,ST004,Delhi,DistriFresh,2,610.72,0
+2025-02-04,Apple,0.9,Fresh,128,3.62,ST002,Hyderabad,DistriFresh,3,463.36,0
+2025-02-01,Pineapple,0.74,Fresh,131,2.01,ST003,Bangalore,QuickHarvest,0,263.30999999999995,0
+2025-03-31,Orange,0.95,Fresh,25,4.5,ST003,Mumbai,DistriFresh,4,112.5,0
+2025-03-05,Banana,0.93,Fresh,28,1.65,ST004,Bangalore,AgroSupply,3,46.199999999999996,0
+2025-04-01,Banana,0.85,Fresh,114,4.52,ST002,Mumbai,DistriFresh,2,515.28,0
+2025-03-28,Apple,0.75,Fresh,22,2.75,ST003,Delhi,FruityFast,3,60.5,0
+2025-03-04,Orange,0.55,Not Fresh,29,4.91,ST003,Delhi,AgroSupply,5,142.39000000000001,1
+2025-01-12,Apple,0.95,Fresh,40,3.33,ST002,Delhi,FruityFast,4,133.2,0
+2025-01-24,Mango,0.97,Fresh,200,2.35,ST003,Bangalore,QuickHarvest,2,470.0,0
+2025-03-28,Pineapple,0.53,Not Fresh,53,2.53,ST001,Hyderabad,DistriFresh,0,134.09,1
+2025-03-02,Apple,0.73,Fresh,78,1.35,ST001,Delhi,QuickHarvest,1,105.30000000000001,0
+2025-02-13,Banana,0.82,Fresh,68,4.58,ST002,Mumbai,AgroSupply,0,311.44,0
+2025-02-11,Pineapple,0.31,Not Fresh,22,4.66,ST004,Bangalore,QuickHarvest,5,102.52000000000001,1
+2025-03-23,Pineapple,0.85,Fresh,133,4.42,ST001,Delhi,FruityFast,2,587.86,0
+2025-03-29,Apple,0.73,Fresh,78,3.64,ST001,Mumbai,AgroSupply,1,283.92,0
+2025-01-25,Banana,0.88,Fresh,21,4.37,ST001,Delhi,FruityFast,2,91.77,0
+2025-03-13,Pineapple,0.48,Not Fresh,27,4.16,ST002,Mumbai,QuickHarvest,4,112.32000000000001,1
+2025-02-10,Banana,0.67,Fresh,137,3.79,ST001,Bangalore,FruityFast,5,519.23,0
+2025-02-14,Apple,0.82,Fresh,101,4.39,ST003,Mumbai,AgroSupply,1,443.39,0
+2025-03-10,Orange,0.84,Fresh,85,4.42,ST004,Hyderabad,QuickHarvest,1,375.7,0
+2025-02-28,Mango,0.43,Not Fresh,70,2.8,ST003,Bangalore,FruityFast,0,196.0,1
+2025-03-26,Mango,0.98,Fresh,106,4.59,ST001,Delhi,FruityFast,4,486.53999999999996,0
+2025-01-19,Banana,0.64,Fresh,149,4.18,ST004,Mumbai,FruityFast,5,622.8199999999999,0
+2025-03-19,Mango,0.31,Not Fresh,54,1.66,ST003,Bangalore,DistriFresh,2,89.64,1
+2025-01-14,Pineapple,0.8,Fresh,117,4.17,ST003,Delhi,DistriFresh,0,487.89,0
+2025-03-11,Apple,0.57,Not Fresh,70,4.4,ST001,Mumbai,AgroSupply,0,308.0,1
+2025-02-15,Mango,0.73,Fresh,121,3.42,ST003,Mumbai,DistriFresh,5,413.82,0
+2025-03-15,Pineapple,0.74,Fresh,143,4.33,ST002,Hyderabad,QuickHarvest,2,619.19,0
+2025-03-04,Banana,0.33,Not Fresh,24,4.98,ST003,Hyderabad,QuickHarvest,1,119.52000000000001,1
+2025-03-24,Mango,0.98,Fresh,28,2.59,ST002,Delhi,AgroSupply,2,72.52,0
+2025-01-04,Mango,0.77,Fresh,148,1.3,ST004,Delhi,DistriFresh,2,192.4,0
+2025-01-27,Apple,0.43,Not Fresh,44,2.89,ST003,Delhi,QuickHarvest,0,127.16000000000001,1
+2025-01-13,Mango,0.53,Not Fresh,64,2.32,ST002,Hyderabad,AgroSupply,3,148.48,1
+2025-02-18,Banana,0.99,Fresh,41,4.01,ST003,Hyderabad,AgroSupply,4,164.41,0
+2025-03-13,Apple,0.92,Fresh,119,4.36,ST003,Mumbai,QuickHarvest,0,518.84,0
+2025-01-21,Orange,0.7,Fresh,170,1.38,ST004,Delhi,FruityFast,2,234.6,0
+2025-03-24,Apple,0.57,Not Fresh,100,4.7,ST002,Bangalore,DistriFresh,0,470.0,1
+2025-03-19,Pineapple,0.36,Not Fresh,73,1.24,ST002,Delhi,FruityFast,3,90.52,1
+2025-01-13,Mango,0.82,Fresh,77,4.25,ST003,Bangalore,QuickHarvest,0,327.25,0
+2025-03-16,Mango,0.52,Not Fresh,38,4.62,ST003,Hyderabad,QuickHarvest,0,175.56,1
+2025-01-14,Apple,0.44,Not Fresh,24,4.33,ST003,Bangalore,DistriFresh,4,103.92,1
+2025-01-07,Mango,0.76,Fresh,65,3.6,ST003,Hyderabad,QuickHarvest,5,234.0,0
+2025-02-06,Banana,0.97,Fresh,129,4.0,ST003,Delhi,DistriFresh,0,516.0,0
+2025-02-05,Banana,0.52,Not Fresh,67,2.76,ST001,Delhi,QuickHarvest,4,184.92,1
+2025-03-29,Apple,0.5,Not Fresh,59,3.49,ST001,Bangalore,AgroSupply,3,205.91000000000003,1
+2025-01-20,Banana,0.75,Fresh,124,1.34,ST004,Mumbai,AgroSupply,1,166.16,0
+2025-02-27,Orange,0.32,Not Fresh,72,3.27,ST004,Hyderabad,FruityFast,1,235.44,1
+2025-01-10,Mango,1.0,Fresh,20,4.4,ST003,Delhi,QuickHarvest,5,88.0,0
+2025-02-28,Orange,0.84,Fresh,45,1.32,ST004,Hyderabad,DistriFresh,2,59.400000000000006,0
+2025-03-15,Mango,0.96,Fresh,27,2.1,ST001,Bangalore,DistriFresh,2,56.7,0
+2025-02-02,Pineapple,0.66,Fresh,177,3.44,ST002,Bangalore,FruityFast,5,608.88,0
+2025-02-22,Pineapple,0.71,Fresh,197,4.2,ST001,Hyderabad,DistriFresh,4,827.4000000000001,0
+2025-02-15,Banana,0.34,Not Fresh,87,1.03,ST003,Bangalore,DistriFresh,0,89.61,1
+2025-01-31,Banana,0.77,Fresh,150,1.28,ST002,Mumbai,QuickHarvest,0,192.0,0
+2025-03-11,Mango,0.42,Not Fresh,93,4.45,ST001,Delhi,QuickHarvest,0,413.85,1
+2025-01-16,Apple,0.48,Not Fresh,60,4.12,ST004,Bangalore,DistriFresh,1,247.20000000000002,1
+2025-01-23,Banana,0.3,Not Fresh,55,3.38,ST003,Mumbai,AgroSupply,0,185.9,1
+2025-03-21,Mango,0.89,Fresh,97,4.93,ST004,Delhi,AgroSupply,3,478.21,0
+2025-01-18,Orange,0.83,Fresh,127,4.61,ST002,Delhi,DistriFresh,1,585.47,0
+2025-03-16,Orange,0.42,Not Fresh,80,4.94,ST002,Mumbai,FruityFast,1,395.20000000000005,1
+2025-03-28,Apple,0.81,Fresh,93,4.13,ST003,Delhi,FruityFast,1,384.09,0
+2025-03-26,Banana,0.59,Not Fresh,81,2.58,ST002,Mumbai,QuickHarvest,0,208.98000000000002,1
+2025-02-05,Orange,0.88,Fresh,137,3.86,ST001,Hyderabad,DistriFresh,2,528.8199999999999,0
+2025-01-22,Apple,0.52,Not Fresh,30,2.25,ST004,Mumbai,DistriFresh,4,67.5,1
+2025-03-27,Pineapple,0.96,Fresh,87,2.1,ST003,Mumbai,DistriFresh,1,182.70000000000002,0
+2025-02-24,Mango,0.47,Not Fresh,19,3.92,ST004,Mumbai,AgroSupply,3,74.48,1
+2025-01-20,Orange,0.34,Not Fresh,53,3.4,ST004,Delhi,QuickHarvest,1,180.2,1
+2025-02-18,Pineapple,0.65,Fresh,53,1.38,ST004,Delhi,QuickHarvest,2,73.14,0
+2025-03-25,Pineapple,0.32,Not Fresh,52,3.38,ST003,Hyderabad,QuickHarvest,4,175.76,1
+2025-01-27,Apple,0.94,Fresh,173,4.07,ST002,Bangalore,FruityFast,0,704.11,0
+2025-01-25,Banana,0.62,Fresh,73,3.45,ST001,Delhi,DistriFresh,0,251.85000000000002,0
+2025-01-27,Mango,0.68,Fresh,155,4.18,ST001,Delhi,FruityFast,2,647.9,0
+2025-03-08,Pineapple,0.9,Fresh,65,3.01,ST001,Delhi,QuickHarvest,1,195.64999999999998,0
+2025-03-03,Mango,0.31,Not Fresh,73,1.04,ST002,Bangalore,FruityFast,0,75.92,1
+2025-02-14,Banana,0.61,Fresh,32,2.83,ST002,Delhi,QuickHarvest,3,90.56,0
+2025-01-09,Orange,0.63,Fresh,154,1.65,ST002,Bangalore,DistriFresh,1,254.1,0
+2025-03-12,Pineapple,0.45,Not Fresh,70,1.64,ST002,Hyderabad,QuickHarvest,3,114.8,1
+2025-02-07,Orange,0.69,Fresh,40,2.48,ST001,Delhi,QuickHarvest,5,99.2,0
+2025-04-01,Pineapple,0.62,Fresh,43,3.04,ST004,Hyderabad,DistriFresh,5,130.72,0
+2025-02-25,Apple,0.87,Fresh,167,4.09,ST003,Hyderabad,AgroSupply,3,683.03,0
+2025-03-19,Apple,0.46,Not Fresh,40,3.22,ST001,Delhi,AgroSupply,0,128.8,1
+2025-01-26,Pineapple,0.46,Not Fresh,50,4.47,ST003,Delhi,AgroSupply,1,223.5,1
+2025-01-25,Orange,0.87,Fresh,102,2.03,ST002,Delhi,AgroSupply,0,207.05999999999997,0
+2025-01-01,Pineapple,0.87,Fresh,117,2.97,ST002,Delhi,AgroSupply,4,347.49,0
+2025-01-30,Apple,0.96,Fresh,148,2.61,ST004,Hyderabad,FruityFast,3,386.28,0
+2025-01-29,Mango,0.76,Fresh,153,2.21,ST003,Mumbai,QuickHarvest,5,338.13,0
+2025-03-03,Pineapple,0.61,Fresh,166,3.2,ST003,Bangalore,AgroSupply,2,531.2,0
+2025-03-09,Pineapple,0.43,Not Fresh,22,1.96,ST004,Mumbai,FruityFast,5,43.12,1
+2025-04-01,Mango,0.93,Fresh,64,1.65,ST003,Bangalore,AgroSupply,0,105.6,0
+2025-03-28,Banana,0.31,Not Fresh,76,1.76,ST001,Hyderabad,DistriFresh,2,133.76,1
+2025-02-24,Pineapple,0.69,Fresh,59,1.37,ST003,Mumbai,DistriFresh,2,80.83000000000001,0
+2025-03-16,Orange,0.33,Not Fresh,28,1.24,ST001,Delhi,DistriFresh,2,34.72,1
+2025-01-07,Pineapple,0.83,Fresh,79,4.01,ST002,Hyderabad,FruityFast,3,316.78999999999996,0
+2025-02-21,Pineapple,0.65,Fresh,21,3.78,ST004,Mumbai,FruityFast,1,79.38,0
+2025-03-21,Mango,0.96,Fresh,129,3.26,ST003,Bangalore,AgroSupply,2,420.53999999999996,0
+2025-01-30,Apple,0.35,Not Fresh,69,2.27,ST002,Bangalore,QuickHarvest,4,156.63,1
+2025-03-26,Apple,0.37,Not Fresh,62,3.34,ST001,Bangalore,FruityFast,2,207.07999999999998,1
+2025-03-22,Pineapple,0.87,Fresh,132,2.94,ST004,Bangalore,QuickHarvest,5,388.08,0
+2025-03-22,Banana,0.91,Fresh,195,2.95,ST003,Delhi,FruityFast,2,575.25,0
+2025-01-01,Apple,0.64,Fresh,55,3.38,ST002,Delhi,QuickHarvest,2,185.9,0
+2025-01-08,Pineapple,0.78,Fresh,69,2.81,ST002,Hyderabad,FruityFast,3,193.89000000000001,0
+2025-02-28,Pineapple,0.99,Fresh,173,4.53,ST003,Mumbai,FruityFast,2,783.69,0
+2025-02-19,Apple,0.47,Not Fresh,66,2.3,ST004,Bangalore,AgroSupply,1,151.79999999999998,1
+2025-01-17,Orange,0.45,Not Fresh,61,4.23,ST001,Mumbai,QuickHarvest,0,258.03000000000003,1
+2025-03-11,Pineapple,0.67,Fresh,128,2.32,ST002,Delhi,FruityFast,5,296.96,0
+2025-01-09,Mango,0.38,Not Fresh,51,1.07,ST003,Delhi,QuickHarvest,2,54.57,1
+2025-03-06,Mango,0.77,Fresh,47,3.47,ST002,Mumbai,DistriFresh,2,163.09,0
+2025-02-05,Orange,0.37,Not Fresh,43,4.51,ST003,Mumbai,DistriFresh,2,193.92999999999998,1
+2025-03-17,Apple,0.62,Fresh,192,1.56,ST003,Bangalore,QuickHarvest,1,299.52,0
+2025-02-17,Pineapple,0.86,Fresh,63,3.84,ST003,Delhi,FruityFast,3,241.92,0
+2025-01-28,Apple,0.91,Fresh,136,2.19,ST004,Delhi,QuickHarvest,2,297.84,0
+2025-01-07,Banana,0.43,Not Fresh,75,1.83,ST002,Bangalore,AgroSupply,4,137.25,1
+2025-02-26,Orange,0.37,Not Fresh,35,2.42,ST004,Mumbai,DistriFresh,1,84.7,1
+2025-03-15,Orange,0.67,Fresh,153,2.63,ST004,Hyderabad,FruityFast,4,402.39,0
+2025-03-14,Orange,0.4,Not Fresh,90,4.99,ST003,Hyderabad,DistriFresh,1,449.1,1
+2025-03-09,Apple,0.5,Not Fresh,16,3.56,ST002,Delhi,FruityFast,2,56.96,1
+2025-02-14,Apple,0.32,Not Fresh,80,1.41,ST003,Delhi,FruityFast,0,112.8,1
+2025-03-24,Mango,0.61,Fresh,108,3.44,ST003,Hyderabad,QuickHarvest,3,371.52,0
+2025-02-27,Mango,0.42,Not Fresh,45,4.82,ST003,Delhi,DistriFresh,5,216.9,1
+2025-02-28,Pineapple,0.92,Fresh,87,3.33,ST001,Bangalore,FruityFast,1,289.71,0
+2025-02-24,Apple,0.91,Fresh,126,3.67,ST004,Delhi,QuickHarvest,2,462.42,0
+2025-02-04,Apple,0.73,Fresh,41,3.55,ST001,Mumbai,AgroSupply,5,145.54999999999998,0
+2025-02-04,Banana,0.32,Not Fresh,98,4.46,ST002,Hyderabad,FruityFast,1,437.08,1
+2025-02-09,Mango,0.33,Not Fresh,26,2.78,ST002,Mumbai,AgroSupply,0,72.28,1
+2025-03-16,Pineapple,0.6,Fresh,44,3.69,ST004,Bangalore,AgroSupply,3,162.35999999999999,0
+2025-02-16,Mango,0.84,Fresh,148,3.34,ST001,Hyderabad,AgroSupply,1,494.32,0
+2025-02-10,Pineapple,0.94,Fresh,144,4.91,ST001,Hyderabad,QuickHarvest,0,707.04,0
+2025-01-22,Mango,0.64,Fresh,68,4.82,ST001,Hyderabad,QuickHarvest,1,327.76,0
+2025-01-23,Pineapple,0.83,Fresh,181,1.29,ST004,Hyderabad,DistriFresh,5,233.49,0
+2025-01-05,Mango,0.66,Fresh,175,1.83,ST004,Mumbai,AgroSupply,4,320.25,0
+2025-01-11,Orange,0.33,Not Fresh,89,2.5,ST004,Delhi,FruityFast,2,222.5,1
+2025-03-13,Banana,0.99,Fresh,180,3.32,ST001,Mumbai,AgroSupply,2,597.6,0
+2025-01-19,Pineapple,0.63,Fresh,37,2.89,ST003,Bangalore,QuickHarvest,5,106.93,0
+2025-03-11,Banana,0.73,Fresh,185,2.5,ST003,Mumbai,QuickHarvest,5,462.5,0
+2025-03-23,Banana,0.32,Not Fresh,30,1.62,ST004,Hyderabad,DistriFresh,0,48.6,1
+2025-03-28,Pineapple,0.76,Fresh,198,3.21,ST002,Mumbai,QuickHarvest,5,635.58,0
+2025-03-06,Apple,0.92,Fresh,140,4.74,ST002,Bangalore,QuickHarvest,0,663.6,0
+2025-02-13,Banana,0.89,Fresh,198,4.94,ST004,Bangalore,QuickHarvest,1,978.1200000000001,0
+2025-01-02,Mango,0.33,Not Fresh,35,4.76,ST004,Bangalore,FruityFast,2,166.6,1
+2025-01-14,Mango,0.64,Fresh,82,2.56,ST001,Bangalore,FruityFast,1,209.92000000000002,0
+2025-03-29,Apple,0.6,Fresh,52,3.68,ST002,Delhi,AgroSupply,5,191.36,0
+2025-02-04,Mango,0.95,Fresh,127,2.29,ST003,Mumbai,DistriFresh,0,290.83,0
+2025-03-31,Pineapple,0.32,Not Fresh,92,1.54,ST003,Mumbai,FruityFast,2,141.68,1
+2025-03-10,Pineapple,0.56,Not Fresh,32,4.56,ST003,Delhi,AgroSupply,4,145.92,1
+2025-03-17,Banana,0.47,Not Fresh,27,1.9,ST002,Delhi,DistriFresh,0,51.3,1
+2025-01-03,Pineapple,0.97,Fresh,20,3.98,ST002,Delhi,FruityFast,4,79.6,0
+2025-01-15,Mango,0.7,Fresh,154,4.13,ST004,Delhi,QuickHarvest,5,636.02,0
+2025-01-25,Banana,0.51,Not Fresh,12,3.27,ST003,Delhi,DistriFresh,5,39.24,1
+2025-02-19,Apple,0.73,Fresh,186,4.26,ST004,Mumbai,AgroSupply,2,792.36,0
+2025-02-24,Apple,0.68,Fresh,163,4.6,ST002,Mumbai,QuickHarvest,1,749.8,0
+2025-01-15,Pineapple,0.82,Fresh,150,3.61,ST002,Mumbai,AgroSupply,0,541.5,0
+2025-03-02,Pineapple,0.92,Fresh,150,1.43,ST004,Mumbai,QuickHarvest,5,214.5,0
+2025-01-27,Orange,0.53,Not Fresh,88,2.4,ST002,Bangalore,DistriFresh,5,211.2,1
+2025-03-26,Mango,0.72,Fresh,137,2.59,ST004,Bangalore,QuickHarvest,4,354.83,0
+2025-01-31,Orange,0.44,Not Fresh,68,3.63,ST001,Hyderabad,QuickHarvest,3,246.84,1
+2025-01-01,Pineapple,0.56,Not Fresh,66,3.03,ST003,Delhi,AgroSupply,2,199.98,1
+2025-01-18,Orange,0.95,Fresh,152,1.17,ST001,Delhi,AgroSupply,0,177.83999999999997,0
+2025-01-13,Banana,0.89,Fresh,139,1.25,ST003,Delhi,DistriFresh,3,173.75,0
+2025-01-21,Pineapple,0.38,Not Fresh,49,3.49,ST003,Mumbai,AgroSupply,1,171.01000000000002,1
+2025-03-08,Mango,0.79,Fresh,71,2.66,ST003,Hyderabad,QuickHarvest,1,188.86,0
+2025-03-29,Apple,0.6,Fresh,173,3.21,ST004,Delhi,AgroSupply,3,555.33,0
+2025-03-15,Pineapple,0.58,Not Fresh,23,1.51,ST004,Mumbai,DistriFresh,0,34.73,1
+2025-01-23,Pineapple,0.57,Not Fresh,67,3.92,ST003,Delhi,DistriFresh,0,262.64,1
+2025-03-30,Orange,0.62,Fresh,32,2.14,ST002,Delhi,QuickHarvest,4,68.48,0
+2025-03-25,Pineapple,0.44,Not Fresh,87,2.57,ST003,Mumbai,FruityFast,3,223.58999999999997,1
+2025-01-09,Apple,0.35,Not Fresh,91,2.28,ST001,Mumbai,FruityFast,0,207.48,1
+2025-03-21,Apple,0.63,Fresh,89,2.81,ST004,Hyderabad,AgroSupply,3,250.09,0
+2025-03-15,Pineapple,0.47,Not Fresh,63,4.69,ST001,Delhi,AgroSupply,2,295.47,1
+2025-03-28,Orange,0.88,Fresh,37,2.57,ST001,Bangalore,QuickHarvest,3,95.08999999999999,0
+2025-02-09,Pineapple,0.53,Not Fresh,39,4.9,ST003,Delhi,FruityFast,2,191.10000000000002,1
+2025-02-26,Pineapple,0.59,Not Fresh,78,1.89,ST001,Delhi,QuickHarvest,5,147.42,1
+2025-01-27,Pineapple,0.96,Fresh,186,3.17,ST001,Hyderabad,FruityFast,3,589.62,0
+2025-03-09,Mango,0.64,Fresh,197,1.34,ST001,Delhi,FruityFast,3,263.98,0
+2025-01-09,Mango,0.78,Fresh,59,3.7,ST004,Hyderabad,QuickHarvest,0,218.3,0
+2025-02-12,Apple,0.59,Not Fresh,13,3.84,ST001,Bangalore,DistriFresh,2,49.92,1
+2025-02-05,Pineapple,0.36,Not Fresh,34,2.79,ST004,Hyderabad,AgroSupply,1,94.86,1
+2025-01-23,Mango,0.77,Fresh,158,4.98,ST004,Mumbai,QuickHarvest,4,786.84,0
+2025-03-12,Banana,0.39,Not Fresh,19,2.88,ST001,Mumbai,FruityFast,5,54.72,1
+2025-01-26,Apple,0.49,Not Fresh,95,1.49,ST002,Delhi,AgroSupply,2,141.55,1
+2025-01-06,Pineapple,0.55,Not Fresh,34,1.16,ST003,Hyderabad,FruityFast,5,39.44,1
+2025-01-11,Pineapple,0.7,Fresh,58,2.98,ST001,Hyderabad,DistriFresh,5,172.84,0
+2025-01-15,Apple,0.34,Not Fresh,84,4.44,ST002,Delhi,QuickHarvest,1,372.96000000000004,1
+2025-03-16,Apple,0.96,Fresh,179,4.78,ST001,Delhi,FruityFast,5,855.62,0
+2025-03-27,Apple,0.32,Not Fresh,25,3.74,ST002,Hyderabad,FruityFast,4,93.5,1
+2025-03-02,Banana,1.0,Fresh,147,2.77,ST002,Bangalore,FruityFast,1,407.19,0
+2025-01-04,Banana,0.75,Fresh,186,2.17,ST004,Bangalore,DistriFresh,5,403.62,0
+2025-02-01,Orange,0.48,Not Fresh,19,3.34,ST002,Mumbai,AgroSupply,1,63.459999999999994,1
+2025-02-19,Pineapple,0.54,Not Fresh,89,2.41,ST001,Bangalore,QuickHarvest,2,214.49,1
+2025-01-18,Banana,0.67,Fresh,192,3.73,ST004,Delhi,FruityFast,1,716.16,0
+2025-01-18,Mango,0.69,Fresh,142,4.19,ST001,Bangalore,FruityFast,1,594.98,0
+2025-03-12,Banana,0.79,Fresh,67,4.89,ST002,Bangalore,FruityFast,4,327.63,0
+2025-01-12,Orange,0.35,Not Fresh,86,1.43,ST001,Delhi,DistriFresh,5,122.97999999999999,1
+2025-03-24,Banana,0.49,Not Fresh,10,3.5,ST002,Bangalore,FruityFast,2,35.0,1
+2025-01-13,Apple,0.34,Not Fresh,40,3.09,ST003,Bangalore,DistriFresh,0,123.6,1
+2025-02-05,Banana,0.72,Fresh,125,4.8,ST001,Mumbai,FruityFast,2,600.0,0
+2025-02-04,Orange,0.99,Fresh,121,1.69,ST003,Mumbai,QuickHarvest,3,204.48999999999998,0
+2025-04-01,Banana,0.78,Fresh,124,4.95,ST001,Delhi,FruityFast,0,613.8000000000001,0
+2025-01-27,Orange,0.99,Fresh,101,3.55,ST001,Bangalore,DistriFresh,2,358.54999999999995,0
+2025-03-29,Apple,0.32,Not Fresh,40,4.95,ST001,Hyderabad,FruityFast,2,198.0,1
+2025-03-20,Orange,0.31,Not Fresh,90,3.41,ST001,Bangalore,AgroSupply,3,306.90000000000003,1
+2025-01-11,Mango,0.97,Fresh,68,1.11,ST002,Delhi,DistriFresh,2,75.48,0
+2025-01-25,Orange,0.45,Not Fresh,43,3.42,ST004,Bangalore,AgroSupply,4,147.06,1
+2025-01-03,Mango,0.45,Not Fresh,64,4.83,ST003,Hyderabad,QuickHarvest,1,309.12,1
+2025-02-10,Orange,1.0,Fresh,91,3.99,ST003,Hyderabad,FruityFast,5,363.09000000000003,0
+2025-03-06,Mango,0.64,Fresh,137,4.76,ST001,Hyderabad,AgroSupply,1,652.12,0
+2025-01-01,Apple,0.75,Fresh,95,3.0,ST003,Bangalore,DistriFresh,1,285.0,0
+2025-01-18,Orange,0.39,Not Fresh,36,2.34,ST002,Delhi,FruityFast,2,84.24,1
+2025-01-30,Apple,0.72,Fresh,90,2.07,ST002,Mumbai,QuickHarvest,4,186.29999999999998,0
+2025-02-27,Banana,0.7,Fresh,178,4.78,ST001,Bangalore,QuickHarvest,0,850.84,0
+2025-03-04,Mango,0.54,Not Fresh,96,3.84,ST004,Bangalore,AgroSupply,4,368.64,1
+2025-02-11,Mango,0.96,Fresh,113,4.46,ST004,Mumbai,DistriFresh,4,503.98,0
+2025-01-08,Banana,0.34,Not Fresh,70,2.77,ST001,Mumbai,AgroSupply,3,193.9,1
+2025-03-20,Pineapple,0.87,Fresh,125,1.98,ST004,Delhi,DistriFresh,1,247.5,0
+2025-02-03,Apple,0.4,Not Fresh,51,2.81,ST004,Mumbai,DistriFresh,2,143.31,1
+2025-02-26,Pineapple,0.44,Not Fresh,46,2.09,ST004,Bangalore,FruityFast,5,96.13999999999999,1
+2025-02-16,Mango,0.88,Fresh,62,4.78,ST002,Mumbai,FruityFast,5,296.36,0
+2025-03-15,Mango,0.63,Fresh,31,1.11,ST002,Hyderabad,FruityFast,0,34.410000000000004,0
+2025-02-07,Apple,0.71,Fresh,145,3.87,ST004,Delhi,FruityFast,3,561.15,0
+2025-02-09,Mango,0.33,Not Fresh,62,3.9,ST002,Bangalore,FruityFast,3,241.79999999999998,1
+2025-01-19,Banana,0.83,Fresh,196,1.48,ST003,Delhi,QuickHarvest,0,290.08,0
+2025-03-26,Banana,0.78,Fresh,49,4.11,ST001,Bangalore,FruityFast,1,201.39000000000001,0
+2025-03-17,Apple,0.8,Fresh,125,3.39,ST001,Hyderabad,DistriFresh,4,423.75,0
+2025-02-27,Banana,0.48,Not Fresh,33,1.15,ST003,Mumbai,AgroSupply,5,37.949999999999996,1
+2025-02-20,Apple,0.84,Fresh,41,1.37,ST002,Hyderabad,AgroSupply,1,56.17,0
+2025-02-22,Pineapple,0.62,Fresh,135,1.11,ST002,Mumbai,AgroSupply,1,149.85000000000002,0
+2025-02-03,Mango,0.9,Fresh,105,2.49,ST002,Bangalore,AgroSupply,3,261.45000000000005,0
+2025-03-02,Pineapple,0.99,Fresh,104,2.99,ST001,Bangalore,QuickHarvest,0,310.96000000000004,0
+2025-03-13,Banana,0.51,Not Fresh,38,3.4,ST001,Mumbai,QuickHarvest,5,129.2,1
+2025-03-15,Apple,0.81,Fresh,158,3.91,ST003,Mumbai,FruityFast,1,617.78,0
+2025-03-01,Pineapple,0.43,Not Fresh,86,2.34,ST001,Delhi,QuickHarvest,1,201.23999999999998,1
+2025-03-10,Mango,0.97,Fresh,122,2.08,ST001,Hyderabad,AgroSupply,4,253.76000000000002,0
+2025-03-11,Pineapple,0.57,Not Fresh,39,1.49,ST001,Bangalore,QuickHarvest,1,58.11,1
+2025-02-19,Orange,0.43,Not Fresh,31,3.33,ST001,Hyderabad,FruityFast,3,103.23,1
+2025-03-01,Orange,0.55,Not Fresh,73,1.13,ST001,Hyderabad,FruityFast,0,82.49,1
+2025-03-01,Apple,0.89,Fresh,50,4.47,ST002,Mumbai,AgroSupply,4,223.5,0
+2025-02-09,Mango,0.35,Not Fresh,45,3.57,ST003,Hyderabad,FruityFast,5,160.65,1
+2025-01-25,Apple,0.85,Fresh,137,3.43,ST001,Delhi,FruityFast,5,469.91,0
+2025-02-19,Orange,0.87,Fresh,78,3.99,ST004,Bangalore,FruityFast,5,311.22,0
+2025-01-16,Mango,0.47,Not Fresh,45,2.43,ST001,Hyderabad,QuickHarvest,0,109.35000000000001,1
+2025-02-01,Apple,0.96,Fresh,151,1.59,ST001,Hyderabad,FruityFast,3,240.09,0
+2025-01-17,Banana,0.73,Fresh,174,1.46,ST004,Hyderabad,QuickHarvest,3,254.04,0
+2025-03-02,Banana,0.79,Fresh,43,1.74,ST001,Hyderabad,QuickHarvest,4,74.82,0
+2025-02-08,Pineapple,0.51,Not Fresh,13,1.79,ST002,Hyderabad,QuickHarvest,1,23.27,1
+2025-01-02,Pineapple,0.92,Fresh,150,2.06,ST003,Hyderabad,DistriFresh,0,309.0,0
+2025-02-22,Apple,0.69,Fresh,159,1.63,ST004,Mumbai,QuickHarvest,4,259.16999999999996,0
+2025-01-10,Orange,0.98,Fresh,106,4.73,ST003,Hyderabad,DistriFresh,1,501.38000000000005,0
+2025-03-10,Mango,0.9,Fresh,96,2.64,ST001,Hyderabad,FruityFast,4,253.44,0
+2025-01-26,Apple,0.42,Not Fresh,54,3.46,ST003,Mumbai,QuickHarvest,3,186.84,1
+2025-02-06,Apple,0.65,Fresh,125,2.67,ST003,Bangalore,AgroSupply,2,333.75,0
+2025-02-12,Orange,0.82,Fresh,22,4.18,ST004,Hyderabad,QuickHarvest,0,91.96,0
+2025-03-21,Pineapple,0.95,Fresh,150,1.51,ST002,Hyderabad,AgroSupply,1,226.5,0
+2025-03-25,Pineapple,0.72,Fresh,35,2.13,ST003,Mumbai,QuickHarvest,1,74.55,0
+2025-01-22,Orange,0.78,Fresh,39,4.36,ST001,Mumbai,QuickHarvest,0,170.04000000000002,0
+2025-02-04,Mango,0.9,Fresh,191,3.81,ST002,Bangalore,DistriFresh,4,727.71,0
+2025-01-13,Banana,0.76,Fresh,112,4.62,ST001,Hyderabad,FruityFast,5,517.44,0
+2025-03-20,Orange,0.59,Not Fresh,87,2.08,ST001,Mumbai,DistriFresh,2,180.96,1
+2025-01-20,Banana,0.49,Not Fresh,75,4.12,ST002,Bangalore,FruityFast,3,309.0,1
+2025-02-24,Apple,0.91,Fresh,128,3.11,ST004,Hyderabad,AgroSupply,4,398.08,0
+2025-01-14,Pineapple,0.91,Fresh,188,2.76,ST002,Bangalore,FruityFast,3,518.88,0
+2025-01-21,Banana,0.39,Not Fresh,68,3.28,ST004,Delhi,AgroSupply,3,223.04,1
+2025-01-19,Pineapple,0.61,Fresh,49,4.62,ST004,Mumbai,DistriFresh,4,226.38,0
+2025-02-21,Banana,0.47,Not Fresh,70,1.43,ST004,Hyderabad,QuickHarvest,1,100.1,1
+2025-03-19,Orange,0.61,Fresh,104,2.73,ST003,Delhi,FruityFast,0,283.92,0
+2025-01-06,Mango,0.49,Not Fresh,33,3.82,ST002,Bangalore,AgroSupply,4,126.05999999999999,1
+2025-01-23,Mango,0.45,Not Fresh,27,1.5,ST002,Mumbai,FruityFast,1,40.5,1
+2025-01-19,Banana,0.3,Not Fresh,92,4.83,ST001,Hyderabad,AgroSupply,0,444.36,1
+2025-01-26,Mango,0.4,Not Fresh,15,2.58,ST003,Hyderabad,QuickHarvest,1,38.7,1
+2025-03-30,Banana,0.67,Fresh,30,2.59,ST002,Mumbai,FruityFast,4,77.69999999999999,0
+2025-02-10,Pineapple,0.53,Not Fresh,19,4.11,ST001,Delhi,QuickHarvest,3,78.09,1
+2025-01-16,Orange,0.83,Fresh,183,4.46,ST003,Bangalore,QuickHarvest,5,816.18,0
+2025-02-17,Apple,0.8,Fresh,92,1.74,ST004,Mumbai,AgroSupply,4,160.08,0
+2025-02-10,Mango,0.79,Fresh,63,4.34,ST002,Mumbai,FruityFast,2,273.42,0
+2025-02-22,Pineapple,0.55,Not Fresh,89,2.51,ST003,Bangalore,FruityFast,3,223.39,1
+2025-01-23,Mango,0.39,Not Fresh,63,2.69,ST001,Hyderabad,QuickHarvest,0,169.47,1
+2025-01-02,Pineapple,0.89,Fresh,152,2.49,ST001,Hyderabad,AgroSupply,0,378.48,0
+2025-01-03,Banana,0.83,Fresh,55,4.2,ST003,Bangalore,AgroSupply,5,231.0,0
+2025-03-16,Mango,0.8,Fresh,101,2.47,ST004,Bangalore,QuickHarvest,1,249.47000000000003,0
+2025-03-25,Banana,0.71,Fresh,91,3.78,ST004,Bangalore,AgroSupply,5,343.97999999999996,0
+2025-01-15,Banana,0.79,Fresh,181,1.19,ST002,Bangalore,AgroSupply,3,215.39,0
+2025-02-20,Pineapple,0.37,Not Fresh,78,4.7,ST003,Delhi,FruityFast,5,366.6,1
+2025-01-19,Mango,0.95,Fresh,148,1.47,ST004,Delhi,DistriFresh,4,217.56,0
+2025-02-22,Orange,0.55,Not Fresh,50,3.43,ST001,Hyderabad,FruityFast,0,171.5,1
+2025-01-19,Orange,0.87,Fresh,123,1.04,ST003,Mumbai,FruityFast,4,127.92,0
+2025-03-30,Pineapple,0.81,Fresh,132,3.98,ST001,Mumbai,QuickHarvest,2,525.36,0
+2025-01-04,Apple,0.43,Not Fresh,43,3.7,ST004,Delhi,FruityFast,1,159.1,1
+2025-01-09,Banana,0.59,Not Fresh,95,1.9,ST004,Hyderabad,QuickHarvest,5,180.5,1
+2025-03-28,Apple,0.79,Fresh,178,1.06,ST003,Mumbai,AgroSupply,1,188.68,0
+2025-03-29,Banana,0.36,Not Fresh,33,2.55,ST003,Bangalore,QuickHarvest,0,84.14999999999999,1
+2025-01-31,Apple,0.98,Fresh,145,4.13,ST004,Mumbai,FruityFast,0,598.85,0
